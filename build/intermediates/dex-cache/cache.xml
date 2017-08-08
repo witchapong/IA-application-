@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/witchapong/.android/build-cache/fca16035fd5c60af05d4bd493a3cbbc41b707524/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="946e62e4811eee5c0e3d6841562c0c79ec009eca">
+        <dex dex="/Users/witchapong/Downloads/android-sdk-examples-master/Basic/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5034274306bd4b9a02e75d483b0b2af64eb40629/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/witchapong/.android/build-cache/47f4114c5daa5b0c1dde451760236c06db94b9f0/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="/Users/witchapong/Downloads/android-sdk-examples-master/Basic/build/intermediates/transforms/dex/debug/folders/1000/10/classes_569a64c49c7106730af76f807cd3d0f16c940150/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/witchapong/.android/build-cache/1c4bcab71ff668afe07e346edc0644f5f24098e8/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c14d049dc46260da1c76a9d18672d0636c5964a0">
+        <dex dex="/Users/witchapong/Downloads/android-sdk-examples-master/Basic/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7b7935bf6d0eeee67bc016b24f7a9b944ba37630/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/witchapong/.gradle/caches/modules-2/files-2.1/com.pubnub/pubnub-android/3.7.5/d2fca42bd2a37f584bcabeaecdc82fa4c458dd4e/pubnub-android-3.7.5.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d2fca42bd2a37f584bcabeaecdc82fa4c458dd4e">
+        <dex dex="/Users/witchapong/Downloads/android-sdk-examples-master/Basic/build/intermediates/transforms/dex/debug/folders/1000/10/pubnub-android-3.7.5_cfd406b09d736324009712127a1f7c2433c2a4d7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/witchapong/.android/build-cache/09fea09f9c1abb3bc2047e5dfc6ce6bd2d71ebea/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="/Users/witchapong/Downloads/android-sdk-examples-master/Basic/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ef06cdd4029c630d01d199f461c62007a52240b7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/witchapong/.android/build-cache/6df084339e541fa14d11e4ee02c6487a0174d9db/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/Users/witchapong/Downloads/android-sdk-examples-master/Basic/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9d356ee272509c07ad4be0a5dacf295a38453883/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/witchapong/Downloads/android-sdk-examples-master/Basic/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="645f64b1835803acd73b810e9a154b616f63b101">
+        <dex dex="/Users/witchapong/Downloads/android-sdk-examples-master/Basic/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_6d207c737c9b12b43a54c6b2a717de6c21cf7b3a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/witchapong/.gradle/caches/modules-2/files-2.1/org.apache.commons/commons-lang3/3.3.2/90a3822c38ec8c996e84c16a3477ef632cbc87a3/commons-lang3-3.3.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="90a3822c38ec8c996e84c16a3477ef632cbc87a3">
+        <dex dex="/Users/witchapong/Downloads/android-sdk-examples-master/Basic/build/intermediates/transforms/dex/debug/folders/1000/10/commons-lang3-3.3.2_d1dad037467f911176891128956b9a70f5bfbf05/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/witchapong/.android/build-cache/d34790d03f45e7be0cefcc2517970bdb9fe6ee64/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/Users/witchapong/Downloads/android-sdk-examples-master/Basic/build/intermediates/transforms/dex/debug/folders/1000/10/classes_95c0d69718303e6b48baea4b01a73de7a0b4db2d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/witchapong/.android/build-cache/a11d291796a0ab41e9cf9d03b8577734a730ebd3/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="70ffe00aaf049893f59d1dad57bd82992faa38ef">
+        <dex dex="/Users/witchapong/Downloads/android-sdk-examples-master/Basic/build/intermediates/transforms/dex/debug/folders/1000/10/classes_41863f353f30c6a8a4d0a81761cb36878bf94839/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/witchapong/.android/build-cache/d4effd62179610c735a18f01cb7eb5e0cf48e8e7/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="364364bf77b4a71afc5930fc3ae57b3f0eea637c">
+        <dex dex="/Users/witchapong/Downloads/android-sdk-examples-master/Basic/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5efe793e0dfe5e588baf4aedac61e9f78f6c6426/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/witchapong/.android/build-cache/f40319e2e36cc890d38255d18b5408992d1ad883/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/Users/witchapong/Downloads/android-sdk-examples-master/Basic/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ccd2e455332886d27b1e278b82facc122c750c92/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/witchapong/.android/build-cache/99fac341c9c22bfa8c0d0d82fa8169fae4541251/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3d7c0b04b923dbcb3181aaddb6f0e3a6d28f785e">
+        <dex dex="/Users/witchapong/Downloads/android-sdk-examples-master/Basic/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b9e34f8ab4d1fca9ef0d1e0bcf3c7e858677d918/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/witchapong/Downloads/android-sdk-examples-master/Basic/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/witchapong/Downloads/android-sdk-examples-master/Basic/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_de98593f225325d3bbaa3678311e2fae7c3c935c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/witchapong/.android/build-cache/85edbe43d6fa00a006be95d441b6902ea7aba1b5/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="31926f8df69c99453fa51f35cdc1e086aeb40744">
+        <dex dex="/Users/witchapong/Downloads/android-sdk-examples-master/Basic/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d73c5bda8d5a1c2992ff276ea55b856883e49d16/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/witchapong/Downloads/android-sdk-examples-master/Basic/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="666e96e2f26b1fc8fd66a3e0cabe89ee7da654b9">
+        <dex dex="/Users/witchapong/Downloads/android-sdk-examples-master/Basic/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_6d207c737c9b12b43a54c6b2a717de6c21cf7b3a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/witchapong/Downloads/android-sdk-examples-master/Basic/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/witchapong/Downloads/android-sdk-examples-master/Basic/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_de98593f225325d3bbaa3678311e2fae7c3c935c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/witchapong/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.4.1/c7c4f9e35c2fd5900da24f9872e3971801f08ce0/okhttp-3.4.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c7c4f9e35c2fd5900da24f9872e3971801f08ce0">
+        <dex dex="/Users/witchapong/Downloads/android-sdk-examples-master/Basic/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-3.4.1_669992aa577def1dba36cbb21d18cb6c1b15e100/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/witchapong/.android/build-cache/ac2a6823c9b97dfc172b6a7d36c678c36ff94429/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/Users/witchapong/Downloads/android-sdk-examples-master/Basic/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3743228d8d300ff346b1782a925fbef35d8faac0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/witchapong/.android/build-cache/de9707c689c3e1f95f64a679229d8c587e5f1805/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e41a052c714bf67f743c22ed74153422ad773f88">
+        <dex dex="/Users/witchapong/Downloads/android-sdk-examples-master/Basic/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c2ea7fd200408a5dfae57f535593f68635bab18e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/witchapong/.android/build-cache/9820079ba6950da7ac27a4a9c3d40e0128915e63/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/Users/witchapong/Downloads/android-sdk-examples-master/Basic/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ea9a4478d645afc4b1c33c63a69ce4d862d92b54/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/witchapong/.android/build-cache/df67ee6374e2373d909286e8d4d2b14aeed7e1d6/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/Users/witchapong/Downloads/android-sdk-examples-master/Basic/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f9f0d168daaf78fe7cc20ca3152812a479862d2f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/witchapong/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/Users/witchapong/Downloads/android-sdk-examples-master/Basic/build/intermediates/transforms/dex/debug/folders/1000/10/picasso-2.5.2_77abc27aa95d95f1a1e493b07f0db52feee6c42a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/witchapong/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/Users/witchapong/Downloads/android-sdk-examples-master/Basic/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.3.1_89244ffbc1b46ac6a985880dfdd25de687e7ac6f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/witchapong/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.9.0/f824591a0016efbaeddb8300bee54832a1398cfa/okio-1.9.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
+        <dex dex="/Users/witchapong/Downloads/android-sdk-examples-master/Basic/build/intermediates/transforms/dex/debug/folders/1000/10/okio-1.9.0_6c8faddc66a3665b2b63e380b38438d40da49168/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/witchapong/.android/build-cache/f456c0c9344860a23f4ab36930a355f71228c7fc/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="/Users/witchapong/Downloads/android-sdk-examples-master/Basic/build/intermediates/transforms/dex/debug/folders/1000/10/classes_48948a1328989fef53a380b4fe6699c52b100b3d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/witchapong/.android/build-cache/4eb4e632c4f467369a9ff36c218fdc32367507cc/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/witchapong/Downloads/android-sdk-examples-master/Basic/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f8743121b038e783ccf5f8627446628352b3e915/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/witchapong/.android/build-cache/9fb087e6a685373e8736a5bf1a7fb975b83fdbd7/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fcae52a60bc07924d370b4d376116cd8f8581f54">
+        <dex dex="/Users/witchapong/Downloads/android-sdk-examples-master/Basic/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b499e78041e1a74878a6258d41771a298d6846b3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/witchapong/.android/build-cache/04cc8911c9750d6c479643f1619820fc7ce88790/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2430e711762a749feb00b3d64858ca4768251b9d">
+        <dex dex="/Users/witchapong/Downloads/android-sdk-examples-master/Basic/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0eea5854ff66977eb5ed3656b7cd8f2bec1419b6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/witchapong/.android/build-cache/bc6ee720e95d0d7eeb21df31f76b9c0a15a9b0a9/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/Users/witchapong/Downloads/android-sdk-examples-master/Basic/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ea63a7089c7b04376887cc46068c23e9ef8d702f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/witchapong/.android/build-cache/76bcff0bb094ae0589a46848bf9a3c9d1117d8b7/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/Users/witchapong/Downloads/android-sdk-examples-master/Basic/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1fc8516ac8f34243d53334fbd135d3ef32d036f6/classes.dex" />
+    </item>
+
+</items>

@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "/Users/witchapong/Downloads/android-sdk-examples-master/Basic/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_track.xml",
+        "source": "/Users/witchapong/.android/build-cache/ac2a6823c9b97dfc172b6a7d36c678c36ff94429/output/res/color-v23/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "/Users/witchapong/Downloads/android-sdk-examples-master/Basic/build/intermediates/res/merged/debug/color-v23/abc_tint_spinner.xml",
+        "source": "/Users/witchapong/.android/build-cache/ac2a6823c9b97dfc172b6a7d36c678c36ff94429/output/res/color-v23/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "/Users/witchapong/Downloads/android-sdk-examples-master/Basic/build/intermediates/res/merged/debug/color-v23/abc_tint_btn_checkable.xml",
+        "source": "/Users/witchapong/.android/build-cache/ac2a6823c9b97dfc172b6a7d36c678c36ff94429/output/res/color-v23/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "/Users/witchapong/Downloads/android-sdk-examples-master/Basic/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_thumb.xml",
+        "source": "/Users/witchapong/.android/build-cache/ac2a6823c9b97dfc172b6a7d36c678c36ff94429/output/res/color-v23/abc_tint_switch_thumb.xml"
+    },
+    {
+        "merged": "/Users/witchapong/Downloads/android-sdk-examples-master/Basic/build/intermediates/res/merged/debug/color-v23/design_tint_password_toggle.xml",
+        "source": "/Users/witchapong/.android/build-cache/f456c0c9344860a23f4ab36930a355f71228c7fc/output/res/color-v23/design_tint_password_toggle.xml"
+    },
+    {
+        "merged": "/Users/witchapong/Downloads/android-sdk-examples-master/Basic/build/intermediates/res/merged/debug/color-v23/abc_tint_edittext.xml",
+        "source": "/Users/witchapong/.android/build-cache/ac2a6823c9b97dfc172b6a7d36c678c36ff94429/output/res/color-v23/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "/Users/witchapong/Downloads/android-sdk-examples-master/Basic/build/intermediates/res/merged/debug/color-v23/abc_color_highlight_material.xml",
+        "source": "/Users/witchapong/.android/build-cache/ac2a6823c9b97dfc172b6a7d36c678c36ff94429/output/res/color-v23/abc_color_highlight_material.xml"
+    },
+    {
+        "merged": "/Users/witchapong/Downloads/android-sdk-examples-master/Basic/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_borderless_text_material.xml",
+        "source": "/Users/witchapong/.android/build-cache/ac2a6823c9b97dfc172b6a7d36c678c36ff94429/output/res/color-v23/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "/Users/witchapong/Downloads/android-sdk-examples-master/Basic/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_text_material.xml",
+        "source": "/Users/witchapong/.android/build-cache/ac2a6823c9b97dfc172b6a7d36c678c36ff94429/output/res/color-v23/abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "/Users/witchapong/Downloads/android-sdk-examples-master/Basic/build/intermediates/res/merged/debug/color-v23/abc_tint_default.xml",
+        "source": "/Users/witchapong/.android/build-cache/ac2a6823c9b97dfc172b6a7d36c678c36ff94429/output/res/color-v23/abc_tint_default.xml"
+    },
+    {
+        "merged": "/Users/witchapong/Downloads/android-sdk-examples-master/Basic/build/intermediates/res/merged/debug/color-v23/abc_tint_seek_thumb.xml",
+        "source": "/Users/witchapong/.android/build-cache/ac2a6823c9b97dfc172b6a7d36c678c36ff94429/output/res/color-v23/abc_tint_seek_thumb.xml"
+    }
+]

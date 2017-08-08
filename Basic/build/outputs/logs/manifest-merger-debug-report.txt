@@ -1,0 +1,357 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/witchapong/Downloads/android-sdk-examples-master/Basic/src/main/AndroidManifest.xml:2:1-100:12
+	package
+		ADDED from /Users/witchapong/Downloads/android-sdk-examples-master/Basic/src/main/AndroidManifest.xml:3:5-51
+		INJECTED from /Users/witchapong/Downloads/android-sdk-examples-master/Basic/src/main/AndroidManifest.xml
+		INJECTED from /Users/witchapong/Downloads/android-sdk-examples-master/Basic/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/witchapong/Downloads/android-sdk-examples-master/Basic/src/main/AndroidManifest.xml
+		INJECTED from /Users/witchapong/Downloads/android-sdk-examples-master/Basic/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/witchapong/Downloads/android-sdk-examples-master/Basic/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from /Users/witchapong/Downloads/android-sdk-examples-master/Basic/src/main/AndroidManifest.xml
+		INJECTED from /Users/witchapong/Downloads/android-sdk-examples-master/Basic/src/main/AndroidManifest.xml
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/witchapong/Downloads/android-sdk-examples-master/Basic/src/main/AndroidManifest.xml:5:5-81
+MERGED from [org.osmdroid:osmdroid-android:5.6.4] /Users/witchapong/.android/build-cache/1c4bcab71ff668afe07e346edc0644f5f24098e8/output/AndroidManifest.xml:21:5-81
+	android:name
+		ADDED from /Users/witchapong/Downloads/android-sdk-examples-master/Basic/src/main/AndroidManifest.xml:5:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /Users/witchapong/Downloads/android-sdk-examples-master/Basic/src/main/AndroidManifest.xml:6:5-79
+MERGED from [org.osmdroid:osmdroid-android:5.6.4] /Users/witchapong/.android/build-cache/1c4bcab71ff668afe07e346edc0644f5f24098e8/output/AndroidManifest.xml:16:5-79
+	android:name
+		ADDED from /Users/witchapong/Downloads/android-sdk-examples-master/Basic/src/main/AndroidManifest.xml:6:22-76
+uses-permission#android.permission.DOWNLOAD_WITHOUT_NOTIFICATION
+ADDED from /Users/witchapong/Downloads/android-sdk-examples-master/Basic/src/main/AndroidManifest.xml:7:5-88
+	android:name
+		ADDED from /Users/witchapong/Downloads/android-sdk-examples-master/Basic/src/main/AndroidManifest.xml:7:22-85
+uses-permission#android.permission.INTERNET
+ADDED from /Users/witchapong/Downloads/android-sdk-examples-master/Basic/src/main/AndroidManifest.xml:8:5-67
+MERGED from [com.indooratlas.android:indooratlas-android-sdk:2.4.2] /Users/witchapong/.android/build-cache/fca16035fd5c60af05d4bd493a3cbbc41b707524/output/AndroidManifest.xml:12:5-67
+MERGED from [com.google.android.gms:play-services-maps:11.0.4] /Users/witchapong/.android/build-cache/9fb087e6a685373e8736a5bf1a7fb975b83fdbd7/output/AndroidManifest.xml:20:5-66
+MERGED from [org.osmdroid:osmdroid-android:5.6.4] /Users/witchapong/.android/build-cache/1c4bcab71ff668afe07e346edc0644f5f24098e8/output/AndroidManifest.xml:20:5-67
+	android:name
+		ADDED from /Users/witchapong/Downloads/android-sdk-examples-master/Basic/src/main/AndroidManifest.xml:8:22-64
+uses-permission#android.permission.BLUETOOTH
+ADDED from /Users/witchapong/Downloads/android-sdk-examples-master/Basic/src/main/AndroidManifest.xml:9:5-68
+	android:name
+		ADDED from /Users/witchapong/Downloads/android-sdk-examples-master/Basic/src/main/AndroidManifest.xml:9:22-65
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from /Users/witchapong/Downloads/android-sdk-examples-master/Basic/src/main/AndroidManifest.xml:10:5-74
+	android:name
+		ADDED from /Users/witchapong/Downloads/android-sdk-examples-master/Basic/src/main/AndroidManifest.xml:10:22-71
+uses-feature#0x00020000
+ADDED from /Users/witchapong/Downloads/android-sdk-examples-master/Basic/src/main/AndroidManifest.xml:12:5-14:34
+MERGED from [com.google.android.gms:play-services-maps:11.0.4] /Users/witchapong/.android/build-cache/9fb087e6a685373e8736a5bf1a7fb975b83fdbd7/output/AndroidManifest.xml:21:5-77
+	android:glEsVersion
+		ADDED from /Users/witchapong/Downloads/android-sdk-examples-master/Basic/src/main/AndroidManifest.xml:13:9-41
+	android:required
+		ADDED from /Users/witchapong/Downloads/android-sdk-examples-master/Basic/src/main/AndroidManifest.xml:14:9-32
+application
+ADDED from /Users/witchapong/Downloads/android-sdk-examples-master/Basic/src/main/AndroidManifest.xml:16:5-98:19
+MERGED from [com.indooratlas.android:indooratlas-android-sdk:2.4.2] /Users/witchapong/.android/build-cache/fca16035fd5c60af05d4bd493a3cbbc41b707524/output/AndroidManifest.xml:30:5-34:19
+MERGED from [com.google.android.gms:play-services-maps:11.0.4] /Users/witchapong/.android/build-cache/9fb087e6a685373e8736a5bf1a7fb975b83fdbd7/output/AndroidManifest.xml:24:5-19
+MERGED from [com.google.android.gms:play-services-base:11.0.4] /Users/witchapong/.android/build-cache/a11d291796a0ab41e9cf9d03b8577734a730ebd3/output/AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-tasks:11.0.4] /Users/witchapong/.android/build-cache/04cc8911c9750d6c479643f1619820fc7ce88790/output/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:11.0.4] /Users/witchapong/.android/build-cache/d4effd62179610c735a18f01cb7eb5e0cf48e8e7/output/AndroidManifest.xml:19:5-21:19
+MERGED from [com.google.maps.android:android-maps-utils:0.5] /Users/witchapong/.android/build-cache/de9707c689c3e1f95f64a679229d8c587e5f1805/output/AndroidManifest.xml:7:5-11:19
+MERGED from [com.android.support:design:25.3.1] /Users/witchapong/.android/build-cache/f456c0c9344860a23f4ab36930a355f71228c7fc/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/witchapong/.android/build-cache/ac2a6823c9b97dfc172b6a7d36c678c36ff94429/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/witchapong/.android/build-cache/df67ee6374e2373d909286e8d4d2b14aeed7e1d6/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/witchapong/.android/build-cache/d34790d03f45e7be0cefcc2517970bdb9fe6ee64/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:25.3.1] /Users/witchapong/.android/build-cache/09fea09f9c1abb3bc2047e5dfc6ce6bd2d71ebea/output/AndroidManifest.xml:26:5-20
+MERGED from [com.github.MKergall:osmbonuspack:6.2] /Users/witchapong/.android/build-cache/85edbe43d6fa00a006be95d441b6902ea7aba1b5/output/AndroidManifest.xml:11:5-20
+MERGED from [com.android.support:support-v4:25.3.1] /Users/witchapong/.android/build-cache/4eb4e632c4f467369a9ff36c218fdc32367507cc/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/witchapong/.android/build-cache/76bcff0bb094ae0589a46848bf9a3c9d1117d8b7/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/witchapong/.android/build-cache/6df084339e541fa14d11e4ee02c6487a0174d9db/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/witchapong/.android/build-cache/f40319e2e36cc890d38255d18b5408992d1ad883/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/witchapong/.android/build-cache/bc6ee720e95d0d7eeb21df31f76b9c0a15a9b0a9/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] /Users/witchapong/.android/build-cache/9820079ba6950da7ac27a4a9c3d40e0128915e63/output/AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from /Users/witchapong/Downloads/android-sdk-examples-master/Basic/src/main/AndroidManifest.xml:19:9-41
+	android:allowBackup
+		ADDED from /Users/witchapong/Downloads/android-sdk-examples-master/Basic/src/main/AndroidManifest.xml:17:9-35
+	android:icon
+		ADDED from /Users/witchapong/Downloads/android-sdk-examples-master/Basic/src/main/AndroidManifest.xml:18:9-45
+	android:theme
+		ADDED from /Users/witchapong/Downloads/android-sdk-examples-master/Basic/src/main/AndroidManifest.xml:20:9-40
+meta-data#com.google.android.gms.version
+ADDED from /Users/witchapong/Downloads/android-sdk-examples-master/Basic/src/main/AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:11.0.4] /Users/witchapong/.android/build-cache/d4effd62179610c735a18f01cb7eb5e0cf48e8e7/output/AndroidManifest.xml:20:9-121
+MERGED from [com.google.maps.android:android-maps-utils:0.5] /Users/witchapong/.android/build-cache/de9707c689c3e1f95f64a679229d8c587e5f1805/output/AndroidManifest.xml:8:9-10:69
+	android:value
+		ADDED from /Users/witchapong/Downloads/android-sdk-examples-master/Basic/src/main/AndroidManifest.xml:23:13-66
+	android:name
+		ADDED from /Users/witchapong/Downloads/android-sdk-examples-master/Basic/src/main/AndroidManifest.xml:22:13-58
+meta-data#com.google.android.maps.v2.API_KEY
+ADDED from /Users/witchapong/Downloads/android-sdk-examples-master/Basic/src/main/AndroidManifest.xml:24:9-26:55
+	android:value
+		ADDED from /Users/witchapong/Downloads/android-sdk-examples-master/Basic/src/main/AndroidManifest.xml:26:13-52
+	android:name
+		ADDED from /Users/witchapong/Downloads/android-sdk-examples-master/Basic/src/main/AndroidManifest.xml:25:13-62
+meta-data#com.indooratlas.android.sdk.API_KEY
+ADDED from /Users/witchapong/Downloads/android-sdk-examples-master/Basic/src/main/AndroidManifest.xml:27:9-29:59
+	android:value
+		ADDED from /Users/witchapong/Downloads/android-sdk-examples-master/Basic/src/main/AndroidManifest.xml:29:13-56
+	android:name
+		ADDED from /Users/witchapong/Downloads/android-sdk-examples-master/Basic/src/main/AndroidManifest.xml:28:13-63
+meta-data#com.indooratlas.android.sdk.API_SECRET
+ADDED from /Users/witchapong/Downloads/android-sdk-examples-master/Basic/src/main/AndroidManifest.xml:30:9-32:62
+	android:value
+		ADDED from /Users/witchapong/Downloads/android-sdk-examples-master/Basic/src/main/AndroidManifest.xml:32:13-59
+	android:name
+		ADDED from /Users/witchapong/Downloads/android-sdk-examples-master/Basic/src/main/AndroidManifest.xml:31:13-66
+activity#com.indooratlas.android.sdk.examples.ListExamplesActivity
+ADDED from /Users/witchapong/Downloads/android-sdk-examples-master/Basic/src/main/AndroidManifest.xml:34:9-42:20
+	android:label
+		ADDED from /Users/witchapong/Downloads/android-sdk-examples-master/Basic/src/main/AndroidManifest.xml:36:13-45
+	android:name
+		ADDED from /Users/witchapong/Downloads/android-sdk-examples-master/Basic/src/main/AndroidManifest.xml:35:13-49
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/witchapong/Downloads/android-sdk-examples-master/Basic/src/main/AndroidManifest.xml:37:13-41:29
+action#android.intent.action.MAIN
+ADDED from /Users/witchapong/Downloads/android-sdk-examples-master/Basic/src/main/AndroidManifest.xml:38:17-69
+	android:name
+		ADDED from /Users/witchapong/Downloads/android-sdk-examples-master/Basic/src/main/AndroidManifest.xml:38:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/witchapong/Downloads/android-sdk-examples-master/Basic/src/main/AndroidManifest.xml:40:17-77
+	android:name
+		ADDED from /Users/witchapong/Downloads/android-sdk-examples-master/Basic/src/main/AndroidManifest.xml:40:27-74
+activity#com.indooratlas.android.sdk.examples.simple.SimpleActivity
+ADDED from /Users/witchapong/Downloads/android-sdk-examples-master/Basic/src/main/AndroidManifest.xml:43:9-46:60
+	android:label
+		ADDED from /Users/witchapong/Downloads/android-sdk-examples-master/Basic/src/main/AndroidManifest.xml:46:13-57
+	android:configChanges
+		ADDED from /Users/witchapong/Downloads/android-sdk-examples-master/Basic/src/main/AndroidManifest.xml:45:13-59
+	android:name
+		ADDED from /Users/witchapong/Downloads/android-sdk-examples-master/Basic/src/main/AndroidManifest.xml:44:13-50
+activity#com.indooratlas.android.sdk.examples.imageview.ImageViewActivity
+ADDED from /Users/witchapong/Downloads/android-sdk-examples-master/Basic/src/main/AndroidManifest.xml:47:9-50:52
+	android:screenOrientation
+		ADDED from /Users/witchapong/Downloads/android-sdk-examples-master/Basic/src/main/AndroidManifest.xml:50:13-49
+	android:label
+		ADDED from /Users/witchapong/Downloads/android-sdk-examples-master/Basic/src/main/AndroidManifest.xml:49:13-60
+	android:name
+		ADDED from /Users/witchapong/Downloads/android-sdk-examples-master/Basic/src/main/AndroidManifest.xml:48:13-56
+activity#com.indooratlas.android.sdk.examples.googlemaps.MapsActivity
+ADDED from /Users/witchapong/Downloads/android-sdk-examples-master/Basic/src/main/AndroidManifest.xml:51:9-54:52
+	android:screenOrientation
+		ADDED from /Users/witchapong/Downloads/android-sdk-examples-master/Basic/src/main/AndroidManifest.xml:54:13-49
+	android:label
+		ADDED from /Users/witchapong/Downloads/android-sdk-examples-master/Basic/src/main/AndroidManifest.xml:53:13-67
+	android:name
+		ADDED from /Users/witchapong/Downloads/android-sdk-examples-master/Basic/src/main/AndroidManifest.xml:52:13-52
+activity#com.indooratlas.android.sdk.examples.mapsoverlay.MapsOverlayActivity
+ADDED from /Users/witchapong/Downloads/android-sdk-examples-master/Basic/src/main/AndroidManifest.xml:55:9-58:52
+	android:screenOrientation
+		ADDED from /Users/witchapong/Downloads/android-sdk-examples-master/Basic/src/main/AndroidManifest.xml:58:13-49
+	android:label
+		ADDED from /Users/witchapong/Downloads/android-sdk-examples-master/Basic/src/main/AndroidManifest.xml:57:13-69
+	android:name
+		ADDED from /Users/witchapong/Downloads/android-sdk-examples-master/Basic/src/main/AndroidManifest.xml:56:13-60
+activity#com.indooratlas.android.sdk.examples.sharelocation.ShareLocationActivity
+ADDED from /Users/witchapong/Downloads/android-sdk-examples-master/Basic/src/main/AndroidManifest.xml:59:9-62:67
+	android:label
+		ADDED from /Users/witchapong/Downloads/android-sdk-examples-master/Basic/src/main/AndroidManifest.xml:62:13-64
+	android:configChanges
+		ADDED from /Users/witchapong/Downloads/android-sdk-examples-master/Basic/src/main/AndroidManifest.xml:61:13-59
+	android:name
+		ADDED from /Users/witchapong/Downloads/android-sdk-examples-master/Basic/src/main/AndroidManifest.xml:60:13-64
+activity#com.indooratlas.android.sdk.examples.credentials.CredentialsFromCodeActivity
+ADDED from /Users/witchapong/Downloads/android-sdk-examples-master/Basic/src/main/AndroidManifest.xml:63:9-65:65
+	android:label
+		ADDED from /Users/witchapong/Downloads/android-sdk-examples-master/Basic/src/main/AndroidManifest.xml:65:13-62
+	android:name
+		ADDED from /Users/witchapong/Downloads/android-sdk-examples-master/Basic/src/main/AndroidManifest.xml:64:13-68
+activity#com.indooratlas.android.sdk.examples.regions.RegionsActivity
+ADDED from /Users/witchapong/Downloads/android-sdk-examples-master/Basic/src/main/AndroidManifest.xml:66:9-69:61
+	android:label
+		ADDED from /Users/witchapong/Downloads/android-sdk-examples-master/Basic/src/main/AndroidManifest.xml:69:13-58
+	android:configChanges
+		ADDED from /Users/witchapong/Downloads/android-sdk-examples-master/Basic/src/main/AndroidManifest.xml:68:13-59
+	android:name
+		ADDED from /Users/witchapong/Downloads/android-sdk-examples-master/Basic/src/main/AndroidManifest.xml:67:13-52
+activity#com.indooratlas.android.sdk.examples.background.BackgroundActivity
+ADDED from /Users/witchapong/Downloads/android-sdk-examples-master/Basic/src/main/AndroidManifest.xml:70:9-72:64
+	android:label
+		ADDED from /Users/witchapong/Downloads/android-sdk-examples-master/Basic/src/main/AndroidManifest.xml:72:13-61
+	android:name
+		ADDED from /Users/witchapong/Downloads/android-sdk-examples-master/Basic/src/main/AndroidManifest.xml:71:13-58
+activity#com.indooratlas.android.sdk.examples.orientation.OrientationActivity
+ADDED from /Users/witchapong/Downloads/android-sdk-examples-master/Basic/src/main/AndroidManifest.xml:73:9-76:51
+	android:screenOrientation
+		ADDED from /Users/witchapong/Downloads/android-sdk-examples-master/Basic/src/main/AndroidManifest.xml:76:13-49
+	android:label
+		ADDED from /Users/witchapong/Downloads/android-sdk-examples-master/Basic/src/main/AndroidManifest.xml:75:13-62
+	android:name
+		ADDED from /Users/witchapong/Downloads/android-sdk-examples-master/Basic/src/main/AndroidManifest.xml:74:13-60
+service#com.indooratlas.android.sdk.examples.background.LocationStoreService
+ADDED from /Users/witchapong/Downloads/android-sdk-examples-master/Basic/src/main/AndroidManifest.xml:78:9-80:48
+	android:exported
+		ADDED from /Users/witchapong/Downloads/android-sdk-examples-master/Basic/src/main/AndroidManifest.xml:80:13-37
+	android:name
+		ADDED from /Users/witchapong/Downloads/android-sdk-examples-master/Basic/src/main/AndroidManifest.xml:79:13-60
+activity#com.indooratlas.android.sdk.examples.osmdroid.OpenStreetMapOverlay
+ADDED from /Users/witchapong/Downloads/android-sdk-examples-master/Basic/src/main/AndroidManifest.xml:82:9-86:20
+	android:screenOrientation
+		ADDED from /Users/witchapong/Downloads/android-sdk-examples-master/Basic/src/main/AndroidManifest.xml:85:13-49
+	android:label
+		ADDED from /Users/witchapong/Downloads/android-sdk-examples-master/Basic/src/main/AndroidManifest.xml:84:13-62
+	android:name
+		ADDED from /Users/witchapong/Downloads/android-sdk-examples-master/Basic/src/main/AndroidManifest.xml:83:13-58
+provider#android.support.v4.content.FileProvider
+ADDED from /Users/witchapong/Downloads/android-sdk-examples-master/Basic/src/main/AndroidManifest.xml:88:9-96:20
+	android:authorities
+		ADDED from /Users/witchapong/Downloads/android-sdk-examples-master/Basic/src/main/AndroidManifest.xml:90:13-84
+	android:grantUriPermissions
+		ADDED from /Users/witchapong/Downloads/android-sdk-examples-master/Basic/src/main/AndroidManifest.xml:92:13-47
+	android:exported
+		ADDED from /Users/witchapong/Downloads/android-sdk-examples-master/Basic/src/main/AndroidManifest.xml:91:13-37
+	android:name
+		ADDED from /Users/witchapong/Downloads/android-sdk-examples-master/Basic/src/main/AndroidManifest.xml:89:13-67
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from /Users/witchapong/Downloads/android-sdk-examples-master/Basic/src/main/AndroidManifest.xml:93:13-95:53
+	android:resource
+		ADDED from /Users/witchapong/Downloads/android-sdk-examples-master/Basic/src/main/AndroidManifest.xml:95:17-50
+	android:name
+		ADDED from /Users/witchapong/Downloads/android-sdk-examples-master/Basic/src/main/AndroidManifest.xml:94:17-67
+uses-sdk
+INJECTED from /Users/witchapong/Downloads/android-sdk-examples-master/Basic/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.indooratlas.android:indooratlas-android-sdk:2.4.2] /Users/witchapong/.android/build-cache/fca16035fd5c60af05d4bd493a3cbbc41b707524/output/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.gms:play-services-maps:11.0.4] /Users/witchapong/.android/build-cache/9fb087e6a685373e8736a5bf1a7fb975b83fdbd7/output/AndroidManifest.xml:23:5-43
+MERGED from [com.google.android.gms:play-services-base:11.0.4] /Users/witchapong/.android/build-cache/a11d291796a0ab41e9cf9d03b8577734a730ebd3/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tasks:11.0.4] /Users/witchapong/.android/build-cache/04cc8911c9750d6c479643f1619820fc7ce88790/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-basement:11.0.4] /Users/witchapong/.android/build-cache/d4effd62179610c735a18f01cb7eb5e0cf48e8e7/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.maps.android:android-maps-utils:0.5] /Users/witchapong/.android/build-cache/de9707c689c3e1f95f64a679229d8c587e5f1805/output/AndroidManifest.xml:5:5-43
+MERGED from [com.davemorrissey.labs:subsampling-scale-image-view:3.2.0] /Users/witchapong/.android/build-cache/99fac341c9c22bfa8c0d0d82fa8169fae4541251/output/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:design:25.3.1] /Users/witchapong/.android/build-cache/f456c0c9344860a23f4ab36930a355f71228c7fc/output/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/witchapong/.android/build-cache/ac2a6823c9b97dfc172b6a7d36c678c36ff94429/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/witchapong/.android/build-cache/df67ee6374e2373d909286e8d4d2b14aeed7e1d6/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/witchapong/.android/build-cache/d34790d03f45e7be0cefcc2517970bdb9fe6ee64/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.3.1] /Users/witchapong/.android/build-cache/47f4114c5daa5b0c1dde451760236c06db94b9f0/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.3.1] /Users/witchapong/.android/build-cache/09fea09f9c1abb3bc2047e5dfc6ce6bd2d71ebea/output/AndroidManifest.xml:20:5-44
+MERGED from [com.github.MKergall:osmbonuspack:6.2] /Users/witchapong/.android/build-cache/85edbe43d6fa00a006be95d441b6902ea7aba1b5/output/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-v4:25.3.1] /Users/witchapong/.android/build-cache/4eb4e632c4f467369a9ff36c218fdc32367507cc/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/witchapong/.android/build-cache/76bcff0bb094ae0589a46848bf9a3c9d1117d8b7/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/witchapong/.android/build-cache/6df084339e541fa14d11e4ee02c6487a0174d9db/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/witchapong/.android/build-cache/f40319e2e36cc890d38255d18b5408992d1ad883/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/witchapong/.android/build-cache/bc6ee720e95d0d7eeb21df31f76b9c0a15a9b0a9/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.3.1] /Users/witchapong/.android/build-cache/9820079ba6950da7ac27a4a9c3d40e0128915e63/output/AndroidManifest.xml:21:5-23:58
+MERGED from [org.osmdroid:osmdroid-android:5.6.4] /Users/witchapong/.android/build-cache/1c4bcab71ff668afe07e346edc0644f5f24098e8/output/AndroidManifest.xml:7:5-9:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.3.1] /Users/witchapong/.android/build-cache/f456c0c9344860a23f4ab36930a355f71228c7fc/output/AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from /Users/witchapong/Downloads/android-sdk-examples-master/Basic/src/main/AndroidManifest.xml
+		INJECTED from /Users/witchapong/Downloads/android-sdk-examples-master/Basic/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/witchapong/Downloads/android-sdk-examples-master/Basic/src/main/AndroidManifest.xml
+		INJECTED from /Users/witchapong/Downloads/android-sdk-examples-master/Basic/src/main/AndroidManifest.xml
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.indooratlas.android:indooratlas-android-sdk:2.4.2] /Users/witchapong/.android/build-cache/fca16035fd5c60af05d4bd493a3cbbc41b707524/output/AndroidManifest.xml:11:5-79
+MERGED from [com.google.android.gms:play-services-maps:11.0.4] /Users/witchapong/.android/build-cache/9fb087e6a685373e8736a5bf1a7fb975b83fdbd7/output/AndroidManifest.xml:19:5-78
+MERGED from [org.osmdroid:osmdroid-android:5.6.4] /Users/witchapong/.android/build-cache/1c4bcab71ff668afe07e346edc0644f5f24098e8/output/AndroidManifest.xml:19:5-79
+	android:name
+		ADDED from [com.indooratlas.android:indooratlas-android-sdk:2.4.2] /Users/witchapong/.android/build-cache/fca16035fd5c60af05d4bd493a3cbbc41b707524/output/AndroidManifest.xml:11:22-76
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from [com.indooratlas.android:indooratlas-android-sdk:2.4.2] /Users/witchapong/.android/build-cache/fca16035fd5c60af05d4bd493a3cbbc41b707524/output/AndroidManifest.xml:13:5-76
+	android:name
+		ADDED from [com.indooratlas.android:indooratlas-android-sdk:2.4.2] /Users/witchapong/.android/build-cache/fca16035fd5c60af05d4bd493a3cbbc41b707524/output/AndroidManifest.xml:13:22-73
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from [com.indooratlas.android:indooratlas-android-sdk:2.4.2] /Users/witchapong/.android/build-cache/fca16035fd5c60af05d4bd493a3cbbc41b707524/output/AndroidManifest.xml:14:5-76
+MERGED from [org.osmdroid:osmdroid-android:5.6.4] /Users/witchapong/.android/build-cache/1c4bcab71ff668afe07e346edc0644f5f24098e8/output/AndroidManifest.xml:18:5-76
+	android:name
+		ADDED from [com.indooratlas.android:indooratlas-android-sdk:2.4.2] /Users/witchapong/.android/build-cache/fca16035fd5c60af05d4bd493a3cbbc41b707524/output/AndroidManifest.xml:14:22-73
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from [com.indooratlas.android:indooratlas-android-sdk:2.4.2] /Users/witchapong/.android/build-cache/fca16035fd5c60af05d4bd493a3cbbc41b707524/output/AndroidManifest.xml:15:5-81
+MERGED from [org.osmdroid:osmdroid-android:5.6.4] /Users/witchapong/.android/build-cache/1c4bcab71ff668afe07e346edc0644f5f24098e8/output/AndroidManifest.xml:17:5-81
+	android:name
+		ADDED from [com.indooratlas.android:indooratlas-android-sdk:2.4.2] /Users/witchapong/.android/build-cache/fca16035fd5c60af05d4bd493a3cbbc41b707524/output/AndroidManifest.xml:15:22-78
+uses-feature#android.hardware.sensor.accelerometer
+ADDED from [com.indooratlas.android:indooratlas-android-sdk:2.4.2] /Users/witchapong/.android/build-cache/fca16035fd5c60af05d4bd493a3cbbc41b707524/output/AndroidManifest.xml:17:5-19:36
+	android:required
+		ADDED from [com.indooratlas.android:indooratlas-android-sdk:2.4.2] /Users/witchapong/.android/build-cache/fca16035fd5c60af05d4bd493a3cbbc41b707524/output/AndroidManifest.xml:19:9-33
+	android:name
+		ADDED from [com.indooratlas.android:indooratlas-android-sdk:2.4.2] /Users/witchapong/.android/build-cache/fca16035fd5c60af05d4bd493a3cbbc41b707524/output/AndroidManifest.xml:18:9-61
+uses-feature#android.hardware.sensor.compass
+ADDED from [com.indooratlas.android:indooratlas-android-sdk:2.4.2] /Users/witchapong/.android/build-cache/fca16035fd5c60af05d4bd493a3cbbc41b707524/output/AndroidManifest.xml:20:5-22:36
+	android:required
+		ADDED from [com.indooratlas.android:indooratlas-android-sdk:2.4.2] /Users/witchapong/.android/build-cache/fca16035fd5c60af05d4bd493a3cbbc41b707524/output/AndroidManifest.xml:22:9-33
+	android:name
+		ADDED from [com.indooratlas.android:indooratlas-android-sdk:2.4.2] /Users/witchapong/.android/build-cache/fca16035fd5c60af05d4bd493a3cbbc41b707524/output/AndroidManifest.xml:21:9-55
+uses-feature#android.hardware.sensor.gyroscope
+ADDED from [com.indooratlas.android:indooratlas-android-sdk:2.4.2] /Users/witchapong/.android/build-cache/fca16035fd5c60af05d4bd493a3cbbc41b707524/output/AndroidManifest.xml:23:5-25:36
+	android:required
+		ADDED from [com.indooratlas.android:indooratlas-android-sdk:2.4.2] /Users/witchapong/.android/build-cache/fca16035fd5c60af05d4bd493a3cbbc41b707524/output/AndroidManifest.xml:25:9-33
+	android:name
+		ADDED from [com.indooratlas.android:indooratlas-android-sdk:2.4.2] /Users/witchapong/.android/build-cache/fca16035fd5c60af05d4bd493a3cbbc41b707524/output/AndroidManifest.xml:24:9-57
+uses-feature#android.hardware.wifi
+ADDED from [com.indooratlas.android:indooratlas-android-sdk:2.4.2] /Users/witchapong/.android/build-cache/fca16035fd5c60af05d4bd493a3cbbc41b707524/output/AndroidManifest.xml:26:5-28:35
+MERGED from [org.osmdroid:osmdroid-android:5.6.4] /Users/witchapong/.android/build-cache/1c4bcab71ff668afe07e346edc0644f5f24098e8/output/AndroidManifest.xml:33:5-35:36
+	android:required
+		ADDED from [com.indooratlas.android:indooratlas-android-sdk:2.4.2] /Users/witchapong/.android/build-cache/fca16035fd5c60af05d4bd493a3cbbc41b707524/output/AndroidManifest.xml:28:9-32
+	android:name
+		ADDED from [com.indooratlas.android:indooratlas-android-sdk:2.4.2] /Users/witchapong/.android/build-cache/fca16035fd5c60af05d4bd493a3cbbc41b707524/output/AndroidManifest.xml:27:9-45
+service#com.indooratlas.android.sdk.IALocationService
+ADDED from [com.indooratlas.android:indooratlas-android-sdk:2.4.2] /Users/witchapong/.android/build-cache/fca16035fd5c60af05d4bd493a3cbbc41b707524/output/AndroidManifest.xml:31:9-33:49
+	android:label
+		ADDED from [com.indooratlas.android:indooratlas-android-sdk:2.4.2] /Users/witchapong/.android/build-cache/fca16035fd5c60af05d4bd493a3cbbc41b707524/output/AndroidManifest.xml:33:13-46
+	android:name
+		ADDED from [com.indooratlas.android:indooratlas-android-sdk:2.4.2] /Users/witchapong/.android/build-cache/fca16035fd5c60af05d4bd493a3cbbc41b707524/output/AndroidManifest.xml:32:13-73
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:11.0.4] /Users/witchapong/.android/build-cache/a11d291796a0ab41e9cf9d03b8577734a730ebd3/output/AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:11.0.4] /Users/witchapong/.android/build-cache/a11d291796a0ab41e9cf9d03b8577734a730ebd3/output/AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:11.0.4] /Users/witchapong/.android/build-cache/a11d291796a0ab41e9cf9d03b8577734a730ebd3/output/AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:11.0.4] /Users/witchapong/.android/build-cache/a11d291796a0ab41e9cf9d03b8577734a730ebd3/output/AndroidManifest.xml:19:19-85
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:25.3.1] /Users/witchapong/.android/build-cache/f456c0c9344860a23f4ab36930a355f71228c7fc/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/witchapong/.android/build-cache/ac2a6823c9b97dfc172b6a7d36c678c36ff94429/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/witchapong/.android/build-cache/df67ee6374e2373d909286e8d4d2b14aeed7e1d6/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/witchapong/.android/build-cache/d34790d03f45e7be0cefcc2517970bdb9fe6ee64/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] /Users/witchapong/.android/build-cache/47f4114c5daa5b0c1dde451760236c06db94b9f0/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:transition:25.3.1] /Users/witchapong/.android/build-cache/09fea09f9c1abb3bc2047e5dfc6ce6bd2d71ebea/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.1] /Users/witchapong/.android/build-cache/4eb4e632c4f467369a9ff36c218fdc32367507cc/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/witchapong/.android/build-cache/76bcff0bb094ae0589a46848bf9a3c9d1117d8b7/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/witchapong/.android/build-cache/6df084339e541fa14d11e4ee02c6487a0174d9db/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/witchapong/.android/build-cache/f40319e2e36cc890d38255d18b5408992d1ad883/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/witchapong/.android/build-cache/bc6ee720e95d0d7eeb21df31f76b9c0a15a9b0a9/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] /Users/witchapong/.android/build-cache/9820079ba6950da7ac27a4a9c3d40e0128915e63/output/AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:design:25.3.1] /Users/witchapong/.android/build-cache/f456c0c9344860a23f4ab36930a355f71228c7fc/output/AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:design:25.3.1] /Users/witchapong/.android/build-cache/f456c0c9344860a23f4ab36930a355f71228c7fc/output/AndroidManifest.xml:26:9-47
+supports-screens
+ADDED from [org.osmdroid:osmdroid-android:5.6.4] /Users/witchapong/.android/build-cache/1c4bcab71ff668afe07e346edc0644f5f24098e8/output/AndroidManifest.xml:11:5-14:40
+	android:largeScreens
+		ADDED from [org.osmdroid:osmdroid-android:5.6.4] /Users/witchapong/.android/build-cache/1c4bcab71ff668afe07e346edc0644f5f24098e8/output/AndroidManifest.xml:13:9-36
+	android:normalScreens
+		ADDED from [org.osmdroid:osmdroid-android:5.6.4] /Users/witchapong/.android/build-cache/1c4bcab71ff668afe07e346edc0644f5f24098e8/output/AndroidManifest.xml:14:9-37
+	android:anyDensity
+		ADDED from [org.osmdroid:osmdroid-android:5.6.4] /Users/witchapong/.android/build-cache/1c4bcab71ff668afe07e346edc0644f5f24098e8/output/AndroidManifest.xml:12:9-34
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from [org.osmdroid:osmdroid-android:5.6.4] /Users/witchapong/.android/build-cache/1c4bcab71ff668afe07e346edc0644f5f24098e8/output/AndroidManifest.xml:22:5-80
+IMPLIED from /Users/witchapong/Downloads/android-sdk-examples-master/Basic/src/main/AndroidManifest.xml:2:1-100:12 reason: org.osmdroid.library requested WRITE_EXTERNAL_STORAGE
+	android:name
+		ADDED from [org.osmdroid:osmdroid-android:5.6.4] /Users/witchapong/.android/build-cache/1c4bcab71ff668afe07e346edc0644f5f24098e8/output/AndroidManifest.xml:22:22-77
+uses-feature#android.hardware.location.network
+ADDED from [org.osmdroid:osmdroid-android:5.6.4] /Users/witchapong/.android/build-cache/1c4bcab71ff668afe07e346edc0644f5f24098e8/output/AndroidManifest.xml:24:5-26:36
+	android:required
+		ADDED from [org.osmdroid:osmdroid-android:5.6.4] /Users/witchapong/.android/build-cache/1c4bcab71ff668afe07e346edc0644f5f24098e8/output/AndroidManifest.xml:26:9-33
+	android:name
+		ADDED from [org.osmdroid:osmdroid-android:5.6.4] /Users/witchapong/.android/build-cache/1c4bcab71ff668afe07e346edc0644f5f24098e8/output/AndroidManifest.xml:25:9-57
+uses-feature#android.hardware.location.gps
+ADDED from [org.osmdroid:osmdroid-android:5.6.4] /Users/witchapong/.android/build-cache/1c4bcab71ff668afe07e346edc0644f5f24098e8/output/AndroidManifest.xml:27:5-29:36
+	android:required
+		ADDED from [org.osmdroid:osmdroid-android:5.6.4] /Users/witchapong/.android/build-cache/1c4bcab71ff668afe07e346edc0644f5f24098e8/output/AndroidManifest.xml:29:9-33
+	android:name
+		ADDED from [org.osmdroid:osmdroid-android:5.6.4] /Users/witchapong/.android/build-cache/1c4bcab71ff668afe07e346edc0644f5f24098e8/output/AndroidManifest.xml:28:9-53
+uses-feature#android.hardware.telephony
+ADDED from [org.osmdroid:osmdroid-android:5.6.4] /Users/witchapong/.android/build-cache/1c4bcab71ff668afe07e346edc0644f5f24098e8/output/AndroidManifest.xml:30:5-32:36
+	android:required
+		ADDED from [org.osmdroid:osmdroid-android:5.6.4] /Users/witchapong/.android/build-cache/1c4bcab71ff668afe07e346edc0644f5f24098e8/output/AndroidManifest.xml:32:9-33
+	android:name
+		ADDED from [org.osmdroid:osmdroid-android:5.6.4] /Users/witchapong/.android/build-cache/1c4bcab71ff668afe07e346edc0644f5f24098e8/output/AndroidManifest.xml:31:9-50

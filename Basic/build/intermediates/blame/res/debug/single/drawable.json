@@ -1,0 +1,334 @@
+[
+    {
+        "merged": "/Users/witchapong/Downloads/android-sdk-examples-master/Basic/build/intermediates/res/merged/debug/drawable/abc_ic_ab_back_material.xml",
+        "source": "/Users/witchapong/.android/build-cache/ac2a6823c9b97dfc172b6a7d36c678c36ff94429/output/res/drawable/abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "/Users/witchapong/Downloads/android-sdk-examples-master/Basic/build/intermediates/res/merged/debug/drawable/design_snackbar_background.xml",
+        "source": "/Users/witchapong/.android/build-cache/f456c0c9344860a23f4ab36930a355f71228c7fc/output/res/drawable/design_snackbar_background.xml"
+    },
+    {
+        "merged": "/Users/witchapong/Downloads/android-sdk-examples-master/Basic/build/intermediates/res/merged/debug/drawable/person.png",
+        "source": "/Users/witchapong/.android/build-cache/1c4bcab71ff668afe07e346edc0644f5f24098e8/output/res/drawable/person.png"
+    },
+    {
+        "merged": "/Users/witchapong/Downloads/android-sdk-examples-master/Basic/build/intermediates/res/merged/debug/drawable/abc_edit_text_material.xml",
+        "source": "/Users/witchapong/.android/build-cache/ac2a6823c9b97dfc172b6a7d36c678c36ff94429/output/res/drawable/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/Users/witchapong/Downloads/android-sdk-examples-master/Basic/build/intermediates/res/merged/debug/drawable/center.png",
+        "source": "/Users/witchapong/.android/build-cache/1c4bcab71ff668afe07e346edc0644f5f24098e8/output/res/drawable/center.png"
+    },
+    {
+        "merged": "/Users/witchapong/Downloads/android-sdk-examples-master/Basic/build/intermediates/res/merged/debug/drawable/abc_ic_menu_overflow_material.xml",
+        "source": "/Users/witchapong/.android/build-cache/ac2a6823c9b97dfc172b6a7d36c678c36ff94429/output/res/drawable/abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "/Users/witchapong/Downloads/android-sdk-examples-master/Basic/build/intermediates/res/merged/debug/drawable/abc_cab_background_top_material.xml",
+        "source": "/Users/witchapong/.android/build-cache/ac2a6823c9b97dfc172b6a7d36c678c36ff94429/output/res/drawable/abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "/Users/witchapong/Downloads/android-sdk-examples-master/Basic/build/intermediates/res/merged/debug/drawable/btn_moreinfo.xml",
+        "source": "/Users/witchapong/.android/build-cache/1c4bcab71ff668afe07e346edc0644f5f24098e8/output/res/drawable/btn_moreinfo.xml"
+    },
+    {
+        "merged": "/Users/witchapong/Downloads/android-sdk-examples-master/Basic/build/intermediates/res/merged/debug/drawable/abc_ratingbar_full_material.xml",
+        "source": "/Users/witchapong/.android/build-cache/1af3d0e65d165b0db3aa565fbbcbb1ff7aeac6ec/output/res/drawable/abc_ratingbar_full_material.xml"
+    },
+    {
+        "merged": "/Users/witchapong/Downloads/android-sdk-examples-master/Basic/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_disabled.xml",
+        "source": "/Users/witchapong/.android/build-cache/a11d291796a0ab41e9cf9d03b8577734a730ebd3/output/res/drawable/common_google_signin_btn_text_disabled.xml"
+    },
+    {
+        "merged": "/Users/witchapong/Downloads/android-sdk-examples-master/Basic/build/intermediates/res/merged/debug/drawable/navigation_empty_icon.xml",
+        "source": "/Users/witchapong/.android/build-cache/f456c0c9344860a23f4ab36930a355f71228c7fc/output/res/drawable/navigation_empty_icon.xml"
+    },
+    {
+        "merged": "/Users/witchapong/Downloads/android-sdk-examples-master/Basic/build/intermediates/res/merged/debug/drawable/abc_seekbar_thumb_material.xml",
+        "source": "/Users/witchapong/.android/build-cache/ac2a6823c9b97dfc172b6a7d36c678c36ff94429/output/res/drawable/abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "/Users/witchapong/Downloads/android-sdk-examples-master/Basic/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_dark_normal.xml",
+        "source": "/Users/witchapong/.android/build-cache/a11d291796a0ab41e9cf9d03b8577734a730ebd3/output/res/drawable/common_google_signin_btn_text_dark_normal.xml"
+    },
+    {
+        "merged": "/Users/witchapong/Downloads/android-sdk-examples-master/Basic/build/intermediates/res/merged/debug/drawable/ic_menu_mapmode.png",
+        "source": "/Users/witchapong/.android/build-cache/1c4bcab71ff668afe07e346edc0644f5f24098e8/output/res/drawable/ic_menu_mapmode.png"
+    },
+    {
+        "merged": "/Users/witchapong/Downloads/android-sdk-examples-master/Basic/build/intermediates/res/merged/debug/drawable/abc_dialog_material_background_dark.xml",
+        "source": "/Users/witchapong/.android/build-cache/1af3d0e65d165b0db3aa565fbbcbb1ff7aeac6ec/output/res/drawable/abc_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "/Users/witchapong/Downloads/android-sdk-examples-master/Basic/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_light_normal.xml",
+        "source": "/Users/witchapong/.android/build-cache/a11d291796a0ab41e9cf9d03b8577734a730ebd3/output/res/drawable/common_google_signin_btn_text_light_normal.xml"
+    },
+    {
+        "merged": "/Users/witchapong/Downloads/android-sdk-examples-master/Basic/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_light.xml",
+        "source": "/Users/witchapong/.android/build-cache/ac2a6823c9b97dfc172b6a7d36c678c36ff94429/output/res/drawable/abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "/Users/witchapong/Downloads/android-sdk-examples-master/Basic/build/intermediates/res/merged/debug/drawable/bonuspack_bubble.9.png",
+        "source": "/Users/witchapong/.android/build-cache/1c4bcab71ff668afe07e346edc0644f5f24098e8/output/res/drawable/bonuspack_bubble.9.png"
+    },
+    {
+        "merged": "/Users/witchapong/Downloads/android-sdk-examples-master/Basic/build/intermediates/res/merged/debug/drawable/abc_tab_indicator_material.xml",
+        "source": "/Users/witchapong/.android/build-cache/ac2a6823c9b97dfc172b6a7d36c678c36ff94429/output/res/drawable/abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "/Users/witchapong/Downloads/android-sdk-examples-master/Basic/build/intermediates/res/merged/debug/drawable/notification_bg.xml",
+        "source": "/Users/witchapong/.android/build-cache/ac2a6823c9b97dfc172b6a7d36c678c36ff94429/output/res/drawable/notification_bg.xml"
+    },
+    {
+        "merged": "/Users/witchapong/Downloads/android-sdk-examples-master/Basic/build/intermediates/res/merged/debug/drawable/abc_text_cursor_material.xml",
+        "source": "/Users/witchapong/.android/build-cache/ac2a6823c9b97dfc172b6a7d36c678c36ff94429/output/res/drawable/abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "/Users/witchapong/Downloads/android-sdk-examples-master/Basic/build/intermediates/res/merged/debug/drawable/abc_btn_colored_material.xml",
+        "source": "/Users/witchapong/.android/build-cache/ac2a6823c9b97dfc172b6a7d36c678c36ff94429/output/res/drawable/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/witchapong/Downloads/android-sdk-examples-master/Basic/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_dark_focused.xml",
+        "source": "/Users/witchapong/.android/build-cache/a11d291796a0ab41e9cf9d03b8577734a730ebd3/output/res/drawable/common_google_signin_btn_text_dark_focused.xml"
+    },
+    {
+        "merged": "/Users/witchapong/Downloads/android-sdk-examples-master/Basic/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_dark.xml",
+        "source": "/Users/witchapong/.android/build-cache/a11d291796a0ab41e9cf9d03b8577734a730ebd3/output/res/drawable/common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/Users/witchapong/Downloads/android-sdk-examples-master/Basic/build/intermediates/res/merged/debug/drawable/abc_ratingbar_indicator_material.xml",
+        "source": "/Users/witchapong/.android/build-cache/ac2a6823c9b97dfc172b6a7d36c678c36ff94429/output/res/drawable/abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "/Users/witchapong/Downloads/android-sdk-examples-master/Basic/build/intermediates/res/merged/debug/drawable/abc_textfield_search_material.xml",
+        "source": "/Users/witchapong/.android/build-cache/ac2a6823c9b97dfc172b6a7d36c678c36ff94429/output/res/drawable/abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "/Users/witchapong/Downloads/android-sdk-examples-master/Basic/build/intermediates/res/merged/debug/drawable/abc_ic_search_api_material.xml",
+        "source": "/Users/witchapong/.android/build-cache/ac2a6823c9b97dfc172b6a7d36c678c36ff94429/output/res/drawable/abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "/Users/witchapong/Downloads/android-sdk-examples-master/Basic/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_light.xml",
+        "source": "/Users/witchapong/.android/build-cache/ac2a6823c9b97dfc172b6a7d36c678c36ff94429/output/res/drawable/abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "/Users/witchapong/Downloads/android-sdk-examples-master/Basic/build/intermediates/res/merged/debug/drawable/common_signin_btn_icon_light.xml",
+        "source": "/Users/witchapong/.android/build-cache/d6a2bcd8534e8e9536ad70c810a1b382b9b86fd0/output/res/drawable/common_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "/Users/witchapong/Downloads/android-sdk-examples-master/Basic/build/intermediates/res/merged/debug/drawable/notification_bg_low.xml",
+        "source": "/Users/witchapong/.android/build-cache/ac2a6823c9b97dfc172b6a7d36c678c36ff94429/output/res/drawable/notification_bg_low.xml"
+    },
+    {
+        "merged": "/Users/witchapong/Downloads/android-sdk-examples-master/Basic/build/intermediates/res/merged/debug/drawable/zoom_out.png",
+        "source": "/Users/witchapong/.android/build-cache/1c4bcab71ff668afe07e346edc0644f5f24098e8/output/res/drawable/zoom_out.png"
+    },
+    {
+        "merged": "/Users/witchapong/Downloads/android-sdk-examples-master/Basic/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_light_focused.xml",
+        "source": "/Users/witchapong/.android/build-cache/a11d291796a0ab41e9cf9d03b8577734a730ebd3/output/res/drawable/common_google_signin_btn_icon_light_focused.xml"
+    },
+    {
+        "merged": "/Users/witchapong/Downloads/android-sdk-examples-master/Basic/build/intermediates/res/merged/debug/drawable/abc_seekbar_track_material.xml",
+        "source": "/Users/witchapong/.android/build-cache/ac2a6823c9b97dfc172b6a7d36c678c36ff94429/output/res/drawable/abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "/Users/witchapong/Downloads/android-sdk-examples-master/Basic/build/intermediates/res/merged/debug/drawable/design_fab_background.xml",
+        "source": "/Users/witchapong/.android/build-cache/f456c0c9344860a23f4ab36930a355f71228c7fc/output/res/drawable/design_fab_background.xml"
+    },
+    {
+        "merged": "/Users/witchapong/Downloads/android-sdk-examples-master/Basic/build/intermediates/res/merged/debug/drawable/common_signin_btn_icon_dark.xml",
+        "source": "/Users/witchapong/.android/build-cache/d6a2bcd8534e8e9536ad70c810a1b382b9b86fd0/output/res/drawable/common_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "/Users/witchapong/Downloads/android-sdk-examples-master/Basic/build/intermediates/res/merged/debug/drawable/direction_arrow.png",
+        "source": "/Users/witchapong/.android/build-cache/1c4bcab71ff668afe07e346edc0644f5f24098e8/output/res/drawable/direction_arrow.png"
+    },
+    {
+        "merged": "/Users/witchapong/Downloads/android-sdk-examples-master/Basic/build/intermediates/res/merged/debug/drawable/abc_dialog_material_background.xml",
+        "source": "/Users/witchapong/.android/build-cache/ac2a6823c9b97dfc172b6a7d36c678c36ff94429/output/res/drawable/abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "/Users/witchapong/Downloads/android-sdk-examples-master/Basic/build/intermediates/res/merged/debug/drawable/abc_vector_test.xml",
+        "source": "/Users/witchapong/.android/build-cache/ac2a6823c9b97dfc172b6a7d36c678c36ff94429/output/res/drawable/abc_vector_test.xml"
+    },
+    {
+        "merged": "/Users/witchapong/Downloads/android-sdk-examples-master/Basic/build/intermediates/res/merged/debug/drawable/abc_dialog_material_background_light.xml",
+        "source": "/Users/witchapong/.android/build-cache/1af3d0e65d165b0db3aa565fbbcbb1ff7aeac6ec/output/res/drawable/abc_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "/Users/witchapong/Downloads/android-sdk-examples-master/Basic/build/intermediates/res/merged/debug/drawable/abc_spinner_textfield_background_material.xml",
+        "source": "/Users/witchapong/.android/build-cache/ac2a6823c9b97dfc172b6a7d36c678c36ff94429/output/res/drawable/abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "/Users/witchapong/Downloads/android-sdk-examples-master/Basic/build/intermediates/res/merged/debug/drawable/abc_ratingbar_material.xml",
+        "source": "/Users/witchapong/.android/build-cache/ac2a6823c9b97dfc172b6a7d36c678c36ff94429/output/res/drawable/abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "/Users/witchapong/Downloads/android-sdk-examples-master/Basic/build/intermediates/res/merged/debug/drawable/abc_btn_check_material.xml",
+        "source": "/Users/witchapong/.android/build-cache/ac2a6823c9b97dfc172b6a7d36c678c36ff94429/output/res/drawable/abc_btn_check_material.xml"
+    },
+    {
+        "merged": "/Users/witchapong/Downloads/android-sdk-examples-master/Basic/build/intermediates/res/merged/debug/drawable/ic_menu_offline.png",
+        "source": "/Users/witchapong/.android/build-cache/1c4bcab71ff668afe07e346edc0644f5f24098e8/output/res/drawable/ic_menu_offline.png"
+    },
+    {
+        "merged": "/Users/witchapong/Downloads/android-sdk-examples-master/Basic/build/intermediates/res/merged/debug/drawable/circle.xml",
+        "source": "/Users/witchapong/Downloads/android-sdk-examples-master/Basic/src/main/res/drawable/circle.xml"
+    },
+    {
+        "merged": "/Users/witchapong/Downloads/android-sdk-examples-master/Basic/build/intermediates/res/merged/debug/drawable/design_bottom_navigation_item_background.xml",
+        "source": "/Users/witchapong/.android/build-cache/f456c0c9344860a23f4ab36930a355f71228c7fc/output/res/drawable/design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "/Users/witchapong/Downloads/android-sdk-examples-master/Basic/build/intermediates/res/merged/debug/drawable/notification_tile_bg.xml",
+        "source": "/Users/witchapong/.android/build-cache/ac2a6823c9b97dfc172b6a7d36c678c36ff94429/output/res/drawable/notification_tile_bg.xml"
+    },
+    {
+        "merged": "/Users/witchapong/Downloads/android-sdk-examples-master/Basic/build/intermediates/res/merged/debug/drawable/next.png",
+        "source": "/Users/witchapong/.android/build-cache/1c4bcab71ff668afe07e346edc0644f5f24098e8/output/res/drawable/next.png"
+    },
+    {
+        "merged": "/Users/witchapong/Downloads/android-sdk-examples-master/Basic/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_disabled.xml",
+        "source": "/Users/witchapong/.android/build-cache/a11d291796a0ab41e9cf9d03b8577734a730ebd3/output/res/drawable/common_google_signin_btn_icon_disabled.xml"
+    },
+    {
+        "merged": "/Users/witchapong/Downloads/android-sdk-examples-master/Basic/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_dark.xml",
+        "source": "/Users/witchapong/.android/build-cache/a11d291796a0ab41e9cf9d03b8577734a730ebd3/output/res/drawable/common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "/Users/witchapong/Downloads/android-sdk-examples-master/Basic/build/intermediates/res/merged/debug/drawable/abc_cab_background_internal_bg.xml",
+        "source": "/Users/witchapong/.android/build-cache/ac2a6823c9b97dfc172b6a7d36c678c36ff94429/output/res/drawable/abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "/Users/witchapong/Downloads/android-sdk-examples-master/Basic/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_dark.xml",
+        "source": "/Users/witchapong/.android/build-cache/ac2a6823c9b97dfc172b6a7d36c678c36ff94429/output/res/drawable/abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/witchapong/Downloads/android-sdk-examples-master/Basic/build/intermediates/res/merged/debug/drawable/design_password_eye.xml",
+        "source": "/Users/witchapong/.android/build-cache/f456c0c9344860a23f4ab36930a355f71228c7fc/output/res/drawable/design_password_eye.xml"
+    },
+    {
+        "merged": "/Users/witchapong/Downloads/android-sdk-examples-master/Basic/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_light.xml",
+        "source": "/Users/witchapong/.android/build-cache/ac2a6823c9b97dfc172b6a7d36c678c36ff94429/output/res/drawable/abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "/Users/witchapong/Downloads/android-sdk-examples-master/Basic/build/intermediates/res/merged/debug/drawable/abc_btn_default_mtrl_shape.xml",
+        "source": "/Users/witchapong/.android/build-cache/ac2a6823c9b97dfc172b6a7d36c678c36ff94429/output/res/drawable/abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "/Users/witchapong/Downloads/android-sdk-examples-master/Basic/build/intermediates/res/merged/debug/drawable/ic_menu_mylocation.png",
+        "source": "/Users/witchapong/.android/build-cache/1c4bcab71ff668afe07e346edc0644f5f24098e8/output/res/drawable/ic_menu_mylocation.png"
+    },
+    {
+        "merged": "/Users/witchapong/Downloads/android-sdk-examples-master/Basic/build/intermediates/res/merged/debug/drawable/abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "/Users/witchapong/.android/build-cache/ac2a6823c9b97dfc172b6a7d36c678c36ff94429/output/res/drawable/abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "/Users/witchapong/Downloads/android-sdk-examples-master/Basic/build/intermediates/res/merged/debug/drawable/notification_icon_background.xml",
+        "source": "/Users/witchapong/.android/build-cache/ac2a6823c9b97dfc172b6a7d36c678c36ff94429/output/res/drawable/notification_icon_background.xml"
+    },
+    {
+        "merged": "/Users/witchapong/Downloads/android-sdk-examples-master/Basic/build/intermediates/res/merged/debug/drawable/moreinfo_arrow_pressed.png",
+        "source": "/Users/witchapong/.android/build-cache/1c4bcab71ff668afe07e346edc0644f5f24098e8/output/res/drawable/moreinfo_arrow_pressed.png"
+    },
+    {
+        "merged": "/Users/witchapong/Downloads/android-sdk-examples-master/Basic/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_dark_focused.xml",
+        "source": "/Users/witchapong/.android/build-cache/a11d291796a0ab41e9cf9d03b8577734a730ebd3/output/res/drawable/common_google_signin_btn_icon_dark_focused.xml"
+    },
+    {
+        "merged": "/Users/witchapong/Downloads/android-sdk-examples-master/Basic/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_light.xml",
+        "source": "/Users/witchapong/.android/build-cache/a11d291796a0ab41e9cf9d03b8577734a730ebd3/output/res/drawable/common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/Users/witchapong/Downloads/android-sdk-examples-master/Basic/build/intermediates/res/merged/debug/drawable/abc_btn_radio_material.xml",
+        "source": "/Users/witchapong/.android/build-cache/ac2a6823c9b97dfc172b6a7d36c678c36ff94429/output/res/drawable/abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "/Users/witchapong/Downloads/android-sdk-examples-master/Basic/build/intermediates/res/merged/debug/drawable/abc_btn_borderless_material.xml",
+        "source": "/Users/witchapong/.android/build-cache/ac2a6823c9b97dfc172b6a7d36c678c36ff94429/output/res/drawable/abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "/Users/witchapong/Downloads/android-sdk-examples-master/Basic/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_light.xml",
+        "source": "/Users/witchapong/.android/build-cache/a11d291796a0ab41e9cf9d03b8577734a730ebd3/output/res/drawable/common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "/Users/witchapong/Downloads/android-sdk-examples-master/Basic/build/intermediates/res/merged/debug/drawable/zoom_in.png",
+        "source": "/Users/witchapong/.android/build-cache/1c4bcab71ff668afe07e346edc0644f5f24098e8/output/res/drawable/zoom_in.png"
+    },
+    {
+        "merged": "/Users/witchapong/Downloads/android-sdk-examples-master/Basic/build/intermediates/res/merged/debug/drawable/navto_small.png",
+        "source": "/Users/witchapong/.android/build-cache/1c4bcab71ff668afe07e346edc0644f5f24098e8/output/res/drawable/navto_small.png"
+    },
+    {
+        "merged": "/Users/witchapong/Downloads/android-sdk-examples-master/Basic/build/intermediates/res/merged/debug/drawable/previous.png",
+        "source": "/Users/witchapong/.android/build-cache/1c4bcab71ff668afe07e346edc0644f5f24098e8/output/res/drawable/previous.png"
+    },
+    {
+        "merged": "/Users/witchapong/Downloads/android-sdk-examples-master/Basic/build/intermediates/res/merged/debug/drawable/abc_switch_thumb_material.xml",
+        "source": "/Users/witchapong/.android/build-cache/ac2a6823c9b97dfc172b6a7d36c678c36ff94429/output/res/drawable/abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "/Users/witchapong/Downloads/android-sdk-examples-master/Basic/build/intermediates/res/merged/debug/drawable/common_signin_btn_text_dark.xml",
+        "source": "/Users/witchapong/.android/build-cache/d6a2bcd8534e8e9536ad70c810a1b382b9b86fd0/output/res/drawable/common_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/Users/witchapong/Downloads/android-sdk-examples-master/Basic/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_light_normal.xml",
+        "source": "/Users/witchapong/.android/build-cache/a11d291796a0ab41e9cf9d03b8577734a730ebd3/output/res/drawable/common_google_signin_btn_icon_light_normal.xml"
+    },
+    {
+        "merged": "/Users/witchapong/Downloads/android-sdk-examples-master/Basic/build/intermediates/res/merged/debug/drawable/moreinfo_arrow.png",
+        "source": "/Users/witchapong/.android/build-cache/1c4bcab71ff668afe07e346edc0644f5f24098e8/output/res/drawable/moreinfo_arrow.png"
+    },
+    {
+        "merged": "/Users/witchapong/Downloads/android-sdk-examples-master/Basic/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_dark.xml",
+        "source": "/Users/witchapong/.android/build-cache/ac2a6823c9b97dfc172b6a7d36c678c36ff94429/output/res/drawable/abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/witchapong/Downloads/android-sdk-examples-master/Basic/build/intermediates/res/merged/debug/drawable/abc_ic_voice_search_api_material.xml",
+        "source": "/Users/witchapong/.android/build-cache/ac2a6823c9b97dfc172b6a7d36c678c36ff94429/output/res/drawable/abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "/Users/witchapong/Downloads/android-sdk-examples-master/Basic/build/intermediates/res/merged/debug/drawable/marker_default_focused_base.png",
+        "source": "/Users/witchapong/.android/build-cache/1c4bcab71ff668afe07e346edc0644f5f24098e8/output/res/drawable/marker_default_focused_base.png"
+    },
+    {
+        "merged": "/Users/witchapong/Downloads/android-sdk-examples-master/Basic/build/intermediates/res/merged/debug/drawable/abc_ratingbar_small_material.xml",
+        "source": "/Users/witchapong/.android/build-cache/ac2a6823c9b97dfc172b6a7d36c678c36ff94429/output/res/drawable/abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "/Users/witchapong/Downloads/android-sdk-examples-master/Basic/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_dark.xml",
+        "source": "/Users/witchapong/.android/build-cache/ac2a6823c9b97dfc172b6a7d36c678c36ff94429/output/res/drawable/abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/witchapong/Downloads/android-sdk-examples-master/Basic/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_light_focused.xml",
+        "source": "/Users/witchapong/.android/build-cache/a11d291796a0ab41e9cf9d03b8577734a730ebd3/output/res/drawable/common_google_signin_btn_text_light_focused.xml"
+    },
+    {
+        "merged": "/Users/witchapong/Downloads/android-sdk-examples-master/Basic/build/intermediates/res/merged/debug/drawable/marker_default.png",
+        "source": "/Users/witchapong/.android/build-cache/1c4bcab71ff668afe07e346edc0644f5f24098e8/output/res/drawable/marker_default.png"
+    },
+    {
+        "merged": "/Users/witchapong/Downloads/android-sdk-examples-master/Basic/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_dark_normal.xml",
+        "source": "/Users/witchapong/.android/build-cache/a11d291796a0ab41e9cf9d03b8577734a730ebd3/output/res/drawable/common_google_signin_btn_icon_dark_normal.xml"
+    },
+    {
+        "merged": "/Users/witchapong/Downloads/android-sdk-examples-master/Basic/build/intermediates/res/merged/debug/drawable/abc_ic_go_search_api_material.xml",
+        "source": "/Users/witchapong/.android/build-cache/ac2a6823c9b97dfc172b6a7d36c678c36ff94429/output/res/drawable/abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "/Users/witchapong/Downloads/android-sdk-examples-master/Basic/build/intermediates/res/merged/debug/drawable/common_signin_btn_text_light.xml",
+        "source": "/Users/witchapong/.android/build-cache/d6a2bcd8534e8e9536ad70c810a1b382b9b86fd0/output/res/drawable/common_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/Users/witchapong/Downloads/android-sdk-examples-master/Basic/build/intermediates/res/merged/debug/drawable/ic_menu_compass.png",
+        "source": "/Users/witchapong/.android/build-cache/1c4bcab71ff668afe07e346edc0644f5f24098e8/output/res/drawable/ic_menu_compass.png"
+    },
+    {
+        "merged": "/Users/witchapong/Downloads/android-sdk-examples-master/Basic/build/intermediates/res/merged/debug/drawable/abc_ic_clear_material.xml",
+        "source": "/Users/witchapong/.android/build-cache/ac2a6823c9b97dfc172b6a7d36c678c36ff94429/output/res/drawable/abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "/Users/witchapong/Downloads/android-sdk-examples-master/Basic/build/intermediates/res/merged/debug/drawable/abc_seekbar_tick_mark_material.xml",
+        "source": "/Users/witchapong/.android/build-cache/ac2a6823c9b97dfc172b6a7d36c678c36ff94429/output/res/drawable/abc_seekbar_tick_mark_material.xml"
+    }
+]

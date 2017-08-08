@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/witchapong/Downloads/android-sdk-examples-master/Basic/build/intermediates/res/merged/debug/menu/menu_simple.xml",
+        "source": "/Users/witchapong/Downloads/android-sdk-examples-master/Basic/src/main/res/menu/menu_simple.xml"
+    },
+    {
+        "merged": "/Users/witchapong/Downloads/android-sdk-examples-master/Basic/build/intermediates/res/merged/debug/menu/menu_locationsharing.xml",
+        "source": "/Users/witchapong/Downloads/android-sdk-examples-master/Basic/src/main/res/menu/menu_locationsharing.xml"
+    }
+]

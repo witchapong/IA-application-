@@ -1,0 +1,83 @@
+[
+    {
+        "outputFile": "/Users/witchapong/Downloads/android-sdk-examples-master/Basic/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 105,
+                    "endOffset": 156
+                },
+                "from": {
+                    "file": "/Users/witchapong/Downloads/android-sdk-examples-master/Basic/build/generated/res/resValues/androidTest/debug/values/generated.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 155,
+                        "endColumn": 105,
+                        "endOffset": 256
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 161,
+                    "endColumn": 200,
+                    "endOffset": 357
+                },
+                "from": {
+                    "file": "/Users/witchapong/Downloads/android-sdk-examples-master/Basic/build/generated/res/resValues/androidTest/debug/values/generated.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 261,
+                        "endColumn": 200,
+                        "endOffset": 457
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 362,
+                    "endColumn": 110,
+                    "endOffset": 468
+                },
+                "from": {
+                    "file": "/Users/witchapong/Downloads/android-sdk-examples-master/Basic/build/generated/res/resValues/androidTest/debug/values/generated.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 462,
+                        "endColumn": 110,
+                        "endOffset": 568
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 473,
+                    "endColumn": 112,
+                    "endOffset": 581
+                },
+                "from": {
+                    "file": "/Users/witchapong/Downloads/android-sdk-examples-master/Basic/build/generated/res/resValues/androidTest/debug/values/generated.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 573,
+                        "endColumn": 112,
+                        "endOffset": 681
+                    }
+                }
+            }
+        ]
+    }
+]
