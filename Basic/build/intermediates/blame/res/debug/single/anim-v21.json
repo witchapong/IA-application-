@@ -1,10 +1,10 @@
 [
     {
-        "merged": "/Users/witchapong/Downloads/android-sdk-examples-master/Basic/build/intermediates/res/merged/debug/anim-v21/design_bottom_sheet_slide_out.xml",
+        "merged": "/Users/witchapong/IA-application-/Basic/build/intermediates/res/merged/debug/anim-v21/design_bottom_sheet_slide_out.xml",
         "source": "/Users/witchapong/.android/build-cache/f456c0c9344860a23f4ab36930a355f71228c7fc/output/res/anim-v21/design_bottom_sheet_slide_out.xml"
     },
     {
-        "merged": "/Users/witchapong/Downloads/android-sdk-examples-master/Basic/build/intermediates/res/merged/debug/anim-v21/design_bottom_sheet_slide_in.xml",
+        "merged": "/Users/witchapong/IA-application-/Basic/build/intermediates/res/merged/debug/anim-v21/design_bottom_sheet_slide_in.xml",
         "source": "/Users/witchapong/.android/build-cache/f456c0c9344860a23f4ab36930a355f71228c7fc/output/res/anim-v21/design_bottom_sheet_slide_in.xml"
     }
 ]

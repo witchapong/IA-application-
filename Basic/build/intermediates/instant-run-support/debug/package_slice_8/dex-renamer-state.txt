@@ -1,4 +1,4 @@
-#Tue Aug 08 11:28:56 ICT 2017
-base.0=/Users/witchapong/Downloads/android-sdk-examples-master/Basic/build/intermediates/transforms/dex/debug/folders/1000/5/slice_8
+#Tue Aug 08 15:11:09 ICT 2017
+base.0=/Users/witchapong/IA-application-/Basic/build/intermediates/transforms/dex/debug/folders/1000/5/slice_8
 renamed.0=classes.dex
-file.0=/Users/witchapong/Downloads/android-sdk-examples-master/Basic/build/intermediates/transforms/dex/debug/folders/1000/5/slice_8/classes.dex
+file.0=/Users/witchapong/IA-application-/Basic/build/intermediates/transforms/dex/debug/folders/1000/5/slice_8/classes.dex

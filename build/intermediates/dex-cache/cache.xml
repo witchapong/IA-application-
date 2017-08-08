@@ -138,6 +138,15 @@
     </item>
     <item
         is-multidex="true"
+        jar="/Users/witchapong/IA-application-/Basic/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/witchapong/IA-application-/Basic/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_c3f5b333618a64371379aa89748388daf8faa262/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="/Users/witchapong/Downloads/android-sdk-examples-master/Basic/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
         jumboMode="true"
         optimize="true"
@@ -189,6 +198,15 @@
         revision="25.0.2"
         sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
         <dex dex="/Users/witchapong/Downloads/android-sdk-examples-master/Basic/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ea9a4478d645afc4b1c33c63a69ce4d862d92b54/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/witchapong/IA-application-/Basic/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4824b8250fed0a113df63b81a773113d90e0a72c">
+        <dex dex="/Users/witchapong/IA-application-/Basic/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_f2e095738e99540f98622411fccceaac728b505d/classes.dex" />
     </item>
     <item
         is-multidex="true"

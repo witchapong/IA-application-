@@ -1,10 +1,10 @@
 [
     {
-        "merged": "/Users/witchapong/Downloads/android-sdk-examples-master/Basic/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "merged": "/Users/witchapong/IA-application-/Basic/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
         "source": "/Users/witchapong/.android/build-cache/ac2a6823c9b97dfc172b6a7d36c678c36ff94429/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
     },
     {
-        "merged": "/Users/witchapong/Downloads/android-sdk-examples-master/Basic/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "merged": "/Users/witchapong/IA-application-/Basic/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
         "source": "/Users/witchapong/.android/build-cache/ac2a6823c9b97dfc172b6a7d36c678c36ff94429/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
     }
 ]

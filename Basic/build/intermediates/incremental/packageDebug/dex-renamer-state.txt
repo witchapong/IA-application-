@@ -1,7 +1,7 @@
-#Tue Aug 08 11:28:56 ICT 2017
-base.0=/Users/witchapong/Downloads/android-sdk-examples-master/Basic/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_de98593f225325d3bbaa3678311e2fae7c3c935c
-renamed.1=classes2.dex
-renamed.0=classes.dex
-file.1=/Users/witchapong/Downloads/android-sdk-examples-master/Basic/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_6d207c737c9b12b43a54c6b2a717de6c21cf7b3a/classes.dex
-base.1=/Users/witchapong/Downloads/android-sdk-examples-master/Basic/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_6d207c737c9b12b43a54c6b2a717de6c21cf7b3a
-file.0=/Users/witchapong/Downloads/android-sdk-examples-master/Basic/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_de98593f225325d3bbaa3678311e2fae7c3c935c/classes.dex
+#Tue Aug 08 15:11:09 ICT 2017
+base.0=/Users/witchapong/IA-application-/Basic/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_f2e095738e99540f98622411fccceaac728b505d
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/witchapong/IA-application-/Basic/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_c3f5b333618a64371379aa89748388daf8faa262/classes.dex
+base.1=/Users/witchapong/IA-application-/Basic/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_c3f5b333618a64371379aa89748388daf8faa262
+file.0=/Users/witchapong/IA-application-/Basic/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_f2e095738e99540f98622411fccceaac728b505d/classes.dex

@@ -1,90 +1,90 @@
 [
     {
-        "merged": "/Users/witchapong/Downloads/android-sdk-examples-master/Basic/build/intermediates/res/merged/debug/raw/amu_inline_style.kml",
-        "source": "/Users/witchapong/.android/build-cache/de9707c689c3e1f95f64a679229d8c587e5f1805/output/res/raw/amu_inline_style.kml"
+        "merged": "/Users/witchapong/IA-application-/Basic/build/intermediates/res/merged/debug/raw/panorama.jpg",
+        "source": "/Users/witchapong/IA-application-/Basic/src/main/res/raw/panorama.jpg"
     },
     {
-        "merged": "/Users/witchapong/Downloads/android-sdk-examples-master/Basic/build/intermediates/res/merged/debug/raw/amu_ballon_gx_prefix.kml",
-        "source": "/Users/witchapong/.android/build-cache/de9707c689c3e1f95f64a679229d8c587e5f1805/output/res/raw/amu_ballon_gx_prefix.kml"
-    },
-    {
-        "merged": "/Users/witchapong/Downloads/android-sdk-examples-master/Basic/build/intermediates/res/merged/debug/raw/amu_draw_order_ground_overlay.kml",
-        "source": "/Users/witchapong/.android/build-cache/de9707c689c3e1f95f64a679229d8c587e5f1805/output/res/raw/amu_draw_order_ground_overlay.kml"
-    },
-    {
-        "merged": "/Users/witchapong/Downloads/android-sdk-examples-master/Basic/build/intermediates/res/merged/debug/raw/amu_extended_data.kml",
-        "source": "/Users/witchapong/.android/build-cache/de9707c689c3e1f95f64a679229d8c587e5f1805/output/res/raw/amu_extended_data.kml"
-    },
-    {
-        "merged": "/Users/witchapong/Downloads/android-sdk-examples-master/Basic/build/intermediates/res/merged/debug/raw/amu_basic_folder.kml",
-        "source": "/Users/witchapong/.android/build-cache/de9707c689c3e1f95f64a679229d8c587e5f1805/output/res/raw/amu_basic_folder.kml"
-    },
-    {
-        "merged": "/Users/witchapong/Downloads/android-sdk-examples-master/Basic/build/intermediates/res/merged/debug/raw/style_json.json",
-        "source": "/Users/witchapong/Downloads/android-sdk-examples-master/Basic/src/main/res/raw/style_json.json"
-    },
-    {
-        "merged": "/Users/witchapong/Downloads/android-sdk-examples-master/Basic/build/intermediates/res/merged/debug/raw/amu_unsupported.kml",
+        "merged": "/Users/witchapong/IA-application-/Basic/build/intermediates/res/merged/debug/raw/amu_unsupported.kml",
         "source": "/Users/witchapong/.android/build-cache/de9707c689c3e1f95f64a679229d8c587e5f1805/output/res/raw/amu_unsupported.kml"
     },
     {
-        "merged": "/Users/witchapong/Downloads/android-sdk-examples-master/Basic/build/intermediates/res/merged/debug/raw/amu_ground_overlay.kml",
-        "source": "/Users/witchapong/.android/build-cache/de9707c689c3e1f95f64a679229d8c587e5f1805/output/res/raw/amu_ground_overlay.kml"
-    },
-    {
-        "merged": "/Users/witchapong/Downloads/android-sdk-examples-master/Basic/build/intermediates/res/merged/debug/raw/amu_nested_folders.kml",
-        "source": "/Users/witchapong/.android/build-cache/de9707c689c3e1f95f64a679229d8c587e5f1805/output/res/raw/amu_nested_folders.kml"
-    },
-    {
-        "merged": "/Users/witchapong/Downloads/android-sdk-examples-master/Basic/build/intermediates/res/merged/debug/raw/amu_multiple_placemarks.kml",
-        "source": "/Users/witchapong/.android/build-cache/de9707c689c3e1f95f64a679229d8c587e5f1805/output/res/raw/amu_multiple_placemarks.kml"
-    },
-    {
-        "merged": "/Users/witchapong/Downloads/android-sdk-examples-master/Basic/build/intermediates/res/merged/debug/raw/amu_document_nest.kml",
-        "source": "/Users/witchapong/.android/build-cache/de9707c689c3e1f95f64a679229d8c587e5f1805/output/res/raw/amu_document_nest.kml"
-    },
-    {
-        "merged": "/Users/witchapong/Downloads/android-sdk-examples-master/Basic/build/intermediates/res/merged/debug/raw/amu_poly_style_boolean_alpha.kml",
-        "source": "/Users/witchapong/.android/build-cache/de9707c689c3e1f95f64a679229d8c587e5f1805/output/res/raw/amu_poly_style_boolean_alpha.kml"
-    },
-    {
-        "merged": "/Users/witchapong/Downloads/android-sdk-examples-master/Basic/build/intermediates/res/merged/debug/raw/amu_default_balloon.kml",
-        "source": "/Users/witchapong/.android/build-cache/de9707c689c3e1f95f64a679229d8c587e5f1805/output/res/raw/amu_default_balloon.kml"
-    },
-    {
-        "merged": "/Users/witchapong/Downloads/android-sdk-examples-master/Basic/build/intermediates/res/merged/debug/raw/amu_basic_placemark.kml",
-        "source": "/Users/witchapong/.android/build-cache/de9707c689c3e1f95f64a679229d8c587e5f1805/output/res/raw/amu_basic_placemark.kml"
-    },
-    {
-        "merged": "/Users/witchapong/Downloads/android-sdk-examples-master/Basic/build/intermediates/res/merged/debug/raw/amu_visibility_ground_overlay.kml",
-        "source": "/Users/witchapong/.android/build-cache/de9707c689c3e1f95f64a679229d8c587e5f1805/output/res/raw/amu_visibility_ground_overlay.kml"
-    },
-    {
-        "merged": "/Users/witchapong/Downloads/android-sdk-examples-master/Basic/build/intermediates/res/merged/debug/raw/amu_poly_style_boolean_numeric.kml",
-        "source": "/Users/witchapong/.android/build-cache/de9707c689c3e1f95f64a679229d8c587e5f1805/output/res/raw/amu_poly_style_boolean_numeric.kml"
-    },
-    {
-        "merged": "/Users/witchapong/Downloads/android-sdk-examples-master/Basic/build/intermediates/res/merged/debug/raw/amu_unknwown_folder.kml",
-        "source": "/Users/witchapong/.android/build-cache/de9707c689c3e1f95f64a679229d8c587e5f1805/output/res/raw/amu_unknwown_folder.kml"
-    },
-    {
-        "merged": "/Users/witchapong/Downloads/android-sdk-examples-master/Basic/build/intermediates/res/merged/debug/raw/amu_multigeometry_placemarks.kml",
+        "merged": "/Users/witchapong/IA-application-/Basic/build/intermediates/res/merged/debug/raw/amu_multigeometry_placemarks.kml",
         "source": "/Users/witchapong/.android/build-cache/de9707c689c3e1f95f64a679229d8c587e5f1805/output/res/raw/amu_multigeometry_placemarks.kml"
     },
     {
-        "merged": "/Users/witchapong/Downloads/android-sdk-examples-master/Basic/build/intermediates/res/merged/debug/raw/panorama.jpg",
-        "source": "/Users/witchapong/Downloads/android-sdk-examples-master/Basic/src/main/res/raw/panorama.jpg"
-    },
-    {
-        "merged": "/Users/witchapong/Downloads/android-sdk-examples-master/Basic/build/intermediates/res/merged/debug/raw/amu_nested_multigeometry.kml",
-        "source": "/Users/witchapong/.android/build-cache/de9707c689c3e1f95f64a679229d8c587e5f1805/output/res/raw/amu_nested_multigeometry.kml"
-    },
-    {
-        "merged": "/Users/witchapong/Downloads/android-sdk-examples-master/Basic/build/intermediates/res/merged/debug/raw/amu_ground_overlay_color.kml",
+        "merged": "/Users/witchapong/IA-application-/Basic/build/intermediates/res/merged/debug/raw/amu_ground_overlay_color.kml",
         "source": "/Users/witchapong/.android/build-cache/de9707c689c3e1f95f64a679229d8c587e5f1805/output/res/raw/amu_ground_overlay_color.kml"
     },
     {
-        "merged": "/Users/witchapong/Downloads/android-sdk-examples-master/Basic/build/intermediates/res/merged/debug/raw/amu_cdata.kml",
+        "merged": "/Users/witchapong/IA-application-/Basic/build/intermediates/res/merged/debug/raw/amu_document_nest.kml",
+        "source": "/Users/witchapong/.android/build-cache/de9707c689c3e1f95f64a679229d8c587e5f1805/output/res/raw/amu_document_nest.kml"
+    },
+    {
+        "merged": "/Users/witchapong/IA-application-/Basic/build/intermediates/res/merged/debug/raw/amu_nested_folders.kml",
+        "source": "/Users/witchapong/.android/build-cache/de9707c689c3e1f95f64a679229d8c587e5f1805/output/res/raw/amu_nested_folders.kml"
+    },
+    {
+        "merged": "/Users/witchapong/IA-application-/Basic/build/intermediates/res/merged/debug/raw/amu_visibility_ground_overlay.kml",
+        "source": "/Users/witchapong/.android/build-cache/de9707c689c3e1f95f64a679229d8c587e5f1805/output/res/raw/amu_visibility_ground_overlay.kml"
+    },
+    {
+        "merged": "/Users/witchapong/IA-application-/Basic/build/intermediates/res/merged/debug/raw/amu_ballon_gx_prefix.kml",
+        "source": "/Users/witchapong/.android/build-cache/de9707c689c3e1f95f64a679229d8c587e5f1805/output/res/raw/amu_ballon_gx_prefix.kml"
+    },
+    {
+        "merged": "/Users/witchapong/IA-application-/Basic/build/intermediates/res/merged/debug/raw/amu_draw_order_ground_overlay.kml",
+        "source": "/Users/witchapong/.android/build-cache/de9707c689c3e1f95f64a679229d8c587e5f1805/output/res/raw/amu_draw_order_ground_overlay.kml"
+    },
+    {
+        "merged": "/Users/witchapong/IA-application-/Basic/build/intermediates/res/merged/debug/raw/amu_nested_multigeometry.kml",
+        "source": "/Users/witchapong/.android/build-cache/de9707c689c3e1f95f64a679229d8c587e5f1805/output/res/raw/amu_nested_multigeometry.kml"
+    },
+    {
+        "merged": "/Users/witchapong/IA-application-/Basic/build/intermediates/res/merged/debug/raw/style_json.json",
+        "source": "/Users/witchapong/IA-application-/Basic/src/main/res/raw/style_json.json"
+    },
+    {
+        "merged": "/Users/witchapong/IA-application-/Basic/build/intermediates/res/merged/debug/raw/amu_basic_folder.kml",
+        "source": "/Users/witchapong/.android/build-cache/de9707c689c3e1f95f64a679229d8c587e5f1805/output/res/raw/amu_basic_folder.kml"
+    },
+    {
+        "merged": "/Users/witchapong/IA-application-/Basic/build/intermediates/res/merged/debug/raw/amu_basic_placemark.kml",
+        "source": "/Users/witchapong/.android/build-cache/de9707c689c3e1f95f64a679229d8c587e5f1805/output/res/raw/amu_basic_placemark.kml"
+    },
+    {
+        "merged": "/Users/witchapong/IA-application-/Basic/build/intermediates/res/merged/debug/raw/amu_poly_style_boolean_alpha.kml",
+        "source": "/Users/witchapong/.android/build-cache/de9707c689c3e1f95f64a679229d8c587e5f1805/output/res/raw/amu_poly_style_boolean_alpha.kml"
+    },
+    {
+        "merged": "/Users/witchapong/IA-application-/Basic/build/intermediates/res/merged/debug/raw/amu_ground_overlay.kml",
+        "source": "/Users/witchapong/.android/build-cache/de9707c689c3e1f95f64a679229d8c587e5f1805/output/res/raw/amu_ground_overlay.kml"
+    },
+    {
+        "merged": "/Users/witchapong/IA-application-/Basic/build/intermediates/res/merged/debug/raw/amu_default_balloon.kml",
+        "source": "/Users/witchapong/.android/build-cache/de9707c689c3e1f95f64a679229d8c587e5f1805/output/res/raw/amu_default_balloon.kml"
+    },
+    {
+        "merged": "/Users/witchapong/IA-application-/Basic/build/intermediates/res/merged/debug/raw/amu_inline_style.kml",
+        "source": "/Users/witchapong/.android/build-cache/de9707c689c3e1f95f64a679229d8c587e5f1805/output/res/raw/amu_inline_style.kml"
+    },
+    {
+        "merged": "/Users/witchapong/IA-application-/Basic/build/intermediates/res/merged/debug/raw/amu_unknwown_folder.kml",
+        "source": "/Users/witchapong/.android/build-cache/de9707c689c3e1f95f64a679229d8c587e5f1805/output/res/raw/amu_unknwown_folder.kml"
+    },
+    {
+        "merged": "/Users/witchapong/IA-application-/Basic/build/intermediates/res/merged/debug/raw/amu_cdata.kml",
         "source": "/Users/witchapong/.android/build-cache/de9707c689c3e1f95f64a679229d8c587e5f1805/output/res/raw/amu_cdata.kml"
+    },
+    {
+        "merged": "/Users/witchapong/IA-application-/Basic/build/intermediates/res/merged/debug/raw/amu_multiple_placemarks.kml",
+        "source": "/Users/witchapong/.android/build-cache/de9707c689c3e1f95f64a679229d8c587e5f1805/output/res/raw/amu_multiple_placemarks.kml"
+    },
+    {
+        "merged": "/Users/witchapong/IA-application-/Basic/build/intermediates/res/merged/debug/raw/amu_extended_data.kml",
+        "source": "/Users/witchapong/.android/build-cache/de9707c689c3e1f95f64a679229d8c587e5f1805/output/res/raw/amu_extended_data.kml"
+    },
+    {
+        "merged": "/Users/witchapong/IA-application-/Basic/build/intermediates/res/merged/debug/raw/amu_poly_style_boolean_numeric.kml",
+        "source": "/Users/witchapong/.android/build-cache/de9707c689c3e1f95f64a679229d8c587e5f1805/output/res/raw/amu_poly_style_boolean_numeric.kml"
     }
 ]

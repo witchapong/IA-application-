@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "/Users/witchapong/Downloads/android-sdk-examples-master/Basic/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values/values.xml",
+        "outputFile": "/Users/witchapong/IA-application-/Basic/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values/values.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,7 @@
                     "endOffset": 156
                 },
                 "from": {
-                    "file": "/Users/witchapong/Downloads/android-sdk-examples-master/Basic/build/generated/res/resValues/androidTest/debug/values/generated.xml",
+                    "file": "/Users/witchapong/IA-application-/Basic/build/generated/res/resValues/androidTest/debug/values/generated.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
@@ -30,7 +30,7 @@
                     "endOffset": 357
                 },
                 "from": {
-                    "file": "/Users/witchapong/Downloads/android-sdk-examples-master/Basic/build/generated/res/resValues/androidTest/debug/values/generated.xml",
+                    "file": "/Users/witchapong/IA-application-/Basic/build/generated/res/resValues/androidTest/debug/values/generated.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
@@ -49,7 +49,7 @@
                     "endOffset": 468
                 },
                 "from": {
-                    "file": "/Users/witchapong/Downloads/android-sdk-examples-master/Basic/build/generated/res/resValues/androidTest/debug/values/generated.xml",
+                    "file": "/Users/witchapong/IA-application-/Basic/build/generated/res/resValues/androidTest/debug/values/generated.xml",
                     "position": {
                         "startLine": 8,
                         "startColumn": 4,
@@ -68,7 +68,7 @@
                     "endOffset": 581
                 },
                 "from": {
-                    "file": "/Users/witchapong/Downloads/android-sdk-examples-master/Basic/build/generated/res/resValues/androidTest/debug/values/generated.xml",
+                    "file": "/Users/witchapong/IA-application-/Basic/build/generated/res/resValues/androidTest/debug/values/generated.xml",
                     "position": {
                         "startLine": 9,
                         "startColumn": 4,
