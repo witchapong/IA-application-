@@ -152,12 +152,12 @@
         "source": "/Users/witchapong/.android/build-cache/ac2a6823c9b97dfc172b6a7d36c678c36ff94429/output/res/drawable/abc_ratingbar_indicator_material.xml"
     },
     {
-        "merged": "/Users/witchapong/IA-application-/Basic/build/intermediates/res/merged/debug/drawable/abc_tab_indicator_material.xml",
-        "source": "/Users/witchapong/.android/build-cache/ac2a6823c9b97dfc172b6a7d36c678c36ff94429/output/res/drawable/abc_tab_indicator_material.xml"
-    },
-    {
         "merged": "/Users/witchapong/IA-application-/Basic/build/intermediates/res/merged/debug/drawable/next.png",
         "source": "/Users/witchapong/.android/build-cache/1c4bcab71ff668afe07e346edc0644f5f24098e8/output/res/drawable/next.png"
+    },
+    {
+        "merged": "/Users/witchapong/IA-application-/Basic/build/intermediates/res/merged/debug/drawable/abc_tab_indicator_material.xml",
+        "source": "/Users/witchapong/.android/build-cache/ac2a6823c9b97dfc172b6a7d36c678c36ff94429/output/res/drawable/abc_tab_indicator_material.xml"
     },
     {
         "merged": "/Users/witchapong/IA-application-/Basic/build/intermediates/res/merged/debug/drawable/abc_edit_text_material.xml",

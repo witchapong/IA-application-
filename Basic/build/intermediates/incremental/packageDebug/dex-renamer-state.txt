@@ -1,4 +1,4 @@
-#Tue Aug 08 15:11:09 ICT 2017
+#Tue Aug 08 15:32:31 ICT 2017
 base.0=/Users/witchapong/IA-application-/Basic/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_f2e095738e99540f98622411fccceaac728b505d
 renamed.1=classes.dex
 renamed.0=classes2.dex

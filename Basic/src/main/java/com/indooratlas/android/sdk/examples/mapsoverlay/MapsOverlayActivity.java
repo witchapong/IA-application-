@@ -47,7 +47,9 @@ import com.squareup.picasso.RequestCreator;
 import com.squareup.picasso.Target;
 
 import java.util.ArrayList;
+import java.util.HashMap;
 import java.util.List;
+import java.util.Map;
 
 @SdkExample(description = R.string.example_googlemaps_overlay_description)
 public class MapsOverlayActivity extends FragmentActivity implements  GoogleMap.OnMapClickListener,
@@ -71,14 +73,13 @@ GoogleMap.OnMarkerClickListener, OnMapReadyCallback,GoogleMap.OnMarkerDragListen
     private Target mLoadTarget;
     private boolean mCameraPositionNeedsUpdating = true; // update on first location
     private LatLng mIALatLon;
-    private LatLng clickedLatLon;
-    private Polyline mLine;
     private TextView errorDisplay;
     private Button startButton;
     private Button addWaypoint;
     private boolean addWaypointState = false;
-    private boolean waypointAdded = false;
-    List<Marker> markerList = new ArrayList<Marker>();
+    private boolean startState = false;
+    private Map<LatLng,Marker> markerMap = new HashMap<LatLng, Marker>();
+    private List<ErrorLog> errorLogList = new ArrayList<ErrorLog>();
     /**
      * Listener that handles location change events.
      */
@@ -109,27 +110,6 @@ GoogleMap.OnMarkerClickListener, OnMapReadyCallback,GoogleMap.OnMarkerDragListen
                 // move existing markers position to received location
                 mMarker.setPosition(latLng);
             }
-
-/*            if (clickedLatLon != null){
-
-                    List<LatLng> list = new ArrayList<LatLng>();
-                    list.add(mIALatLon);
-                    list.add(clickedLatLon);
-                    mLine.setPoints(list);
-
-
-                Location locationA = new Location("point A");
-                locationA.setLatitude(mIALatLon.latitude);
-                locationA.setLongitude(mIALatLon.longitude);
-
-                Location locationB = new Location("point B");
-                locationB.setLatitude(clickedLatLon.latitude);
-                locationB.setLongitude(clickedLatLon.longitude);
-
-                float error = locationA.distanceTo(locationB);
-                errorDisplay.setText(String.format("error = %f m",error));
-
-            }*/
 
             // our camera position needs updating if location has significantly changed
             if (mCameraPositionNeedsUpdating) {
@@ -186,6 +166,8 @@ GoogleMap.OnMarkerClickListener, OnMapReadyCallback,GoogleMap.OnMarkerDragListen
         setContentView(R.layout.activity_maps_test);
 
         errorDisplay = (TextView) findViewById(R.id.textView);
+        errorDisplay.setTextColor(Color.RED);
+
         startButton = (Button) findViewById(R.id.button1);
         addWaypoint = (Button) findViewById(R.id.button2);
 
@@ -196,8 +178,33 @@ GoogleMap.OnMarkerClickListener, OnMapReadyCallback,GoogleMap.OnMarkerDragListen
 
             @Override
             public void onClick(View arg0) {
-                addWaypoint.setBackgroundColor(Color.RED);
-                addWaypointState = true;
+
+                addWaypointState = !addWaypointState;
+                if(addWaypointState){
+                    addWaypoint.setBackgroundColor(Color.RED);
+                }
+                else{
+                    addWaypoint.setBackgroundColor(Color.BLUE);
+                }
+
+            }
+        });
+
+        startButton.setOnClickListener(new View.OnClickListener() {
+
+            @Override
+            public void onClick(View arg0) {
+
+                startState = !startState;
+                if(startState){
+                    startButton.setBackgroundColor(Color.RED);
+                    startButton.setText(String.format("Stop"));
+                }
+                else{
+                    startButton.setBackgroundColor(Color.BLUE);
+                    startButton.setText(String.format("Start"));
+                }
+
             }
         });
 
@@ -368,53 +375,52 @@ GoogleMap.OnMarkerClickListener, OnMapReadyCallback,GoogleMap.OnMarkerDragListen
 
         if(addWaypointState){
 
-            clickedLatLon = point;
-
-            markerList.add(mMap.addMarker(new MarkerOptions()
+            markerMap.put(point,mMap.addMarker(new MarkerOptions()
                     .position(point)
                     .icon(BitmapDescriptorFactory.defaultMarker(BitmapDescriptorFactory.HUE_RED))
                     .draggable(true)
             ));
 
             addWaypoint.setBackgroundColor(Color.BLUE);
-
             addWaypointState = false;
-            //waypointAdded = true;
-
-
-
-/*            if (clickedMarker == null){
-
-                clickedMarker = mMap.addMarker(new MarkerOptions().position(point)
-                        .icon(BitmapDescriptorFactory.defaultMarker(BitmapDescriptorFactory.HUE_RED))) ;
-
-                mLine = mMap.addPolyline((new PolylineOptions())
-                        .add(mIALatLon, clickedLatLon)
-                        .color(Color.GREEN)
-                        .width(5f));
-
-            } else {
-                // move existing markers position to received location
-                clickedMarker.setPosition(point);
-
-                List<LatLng> list = new ArrayList<LatLng>();
-                list.add(mIALatLon);
-                list.add(clickedLatLon);
-                mLine.setPoints(list);
-            }*/
 
         }
-
-        //clickedLatLon = point;
-
-
     }
 
     @Override
     public boolean onMarkerClick(Marker marker) {
 
-        markerList.clear();
-        Log.i(TAG,"Marker clicked!!!");
+        if(!startState) {
+
+            if (markerMap.get(marker.getPosition()) != null) {
+                markerMap.get(marker.getPosition()).remove();
+                markerMap.remove(marker.getPosition());
+
+            }
+
+        }else{
+
+
+                //errorLogList.add(new ErrorLog(mIALatLon,marker.getPosition()));
+                //Log.i(TAG,"Error time stamp is " + errorLogList.get(0));
+
+                Location locationA = new Location("point A");
+                locationA.setLatitude(mIALatLon.latitude);
+                locationA.setLongitude(mIALatLon.longitude);
+
+                Location locationB = new Location("point B");
+                locationB.setLatitude(marker.getPosition().latitude);
+                locationB.setLongitude(marker.getPosition().longitude);
+
+                float error = locationA.distanceTo(locationB);
+                errorDisplay.setText(String.format("Error = %f m", error));
+
+
+        }
+
+
+        Log.i(TAG,"markerMap size = " + markerMap.size());
+
         return false;
 
     }
@@ -438,7 +444,6 @@ GoogleMap.OnMarkerClickListener, OnMapReadyCallback,GoogleMap.OnMarkerDragListen
         mMap.setOnMapClickListener(this);
         mMap.setOnMarkerClickListener(this);
         mMap.setOnMarkerDragListener(this);
-
         mMap.setIndoorEnabled(false);
 
     }
